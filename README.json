@@ -1,0 +1,3054 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Tutorials and Surveys"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Surveys"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Transformers in Time Series: A Survey, in IJCAI 2023. [paper]",
+          "description": "[GitHub Repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-08T15:03:54Z",
+            "owner": "qingsongedu",
+            "repo": "time-series-transformers-review",
+            "stars": 2996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T08:19:51Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-09T11:31:08Z",
+            "owner": "KimMeen",
+            "repo": "Awesome-GNN4TS",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-09T11:31:08Z",
+            "owner": "KimMeen",
+            "repo": "Awesome-GNN4TS",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning for Multivariate Time Series Imputation: A Survey, in arXiv 2024. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T09:24:28Z",
+            "owner": "WenjieDu",
+            "repo": "Awesome_Imputation",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-28T23:43:39Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-SSL4TS",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-28T23:43:39Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-SSL4TS",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Time-Series Pre-Trained Models, in arXiv 2023. [paper]",
+          "description": "[link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-07T08:48:46Z",
+            "owner": "qianlima-lab",
+            "repo": "time-series-ptms",
+            "stars": 227
+          }
+        }
+      ],
+      "title": "General Time Series Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Papers 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR 2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-15T11:40:18Z",
+            "owner": "KimMeen",
+            "repo": "Time-LLM",
+            "stars": 2679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-17T15:53:48Z",
+            "owner": "thuml",
+            "repo": "iTransformer",
+            "stars": 2194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T15:18:58Z",
+            "owner": "decisionintelligence",
+            "repo": "pathformer",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T20:06:02Z",
+            "owner": "wxie9",
+            "repo": "CARD",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T04:24:51Z",
+            "owner": "SCXsunchenxi",
+            "repo": "TEST",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T20:01:11Z",
+            "owner": "haochenglouis",
+            "repo": "RobustTSF",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WWW 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI 2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Papers 2023"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS 2023"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML 2023"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR 2023"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-09T02:18:54Z",
+            "owner": "DAMO-DI-ML",
+            "repo": "KDD2023-DCdetector",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-06T13:21:07Z",
+            "owner": "ChunjingXiao",
+            "repo": "DiffAD",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI 2023"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Papers 2022"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-12T01:55:06Z",
+            "owner": "cure-lab",
+            "repo": "SCINet",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-31T02:21:35Z",
+            "owner": "DAMO-DI-ML",
+            "repo": "NeurIPS2022-FiLM",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T01:49:21Z",
+            "owner": "SYLan2019",
+            "repo": "DSTAGNN",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-10T01:13:37Z",
+            "owner": "DAMO-DI-ML",
+            "repo": "ICML2022-FEDformer",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TACTiS: Transformer-Attentional Copulas for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T09:44:13Z",
+            "owner": "ServiceNow",
+            "repo": "TACTiS",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-23T09:12:30Z",
+            "owner": "g-benton",
+            "repo": "Volt",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adaptive Conformal Predictions for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-07T15:58:23Z",
+            "owner": "mzaffran",
+            "repo": "AdaptiveConformalPredictionsTimeSeries",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modeling Irregular Time Series with Continuous Recurrent Units [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-08-03T13:06:35Z",
+            "owner": "boschresearch",
+            "repo": "Continuous-Recurrent-Units",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Utilizing Expert Features for Contrastive Learning of Time-Series Representations [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-01-31T12:29:10Z",
+            "owner": "boschresearch",
+            "repo": "expclr",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reconstructing nonlinear dynamical systems from multi-modal time series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-16T19:20:41Z",
+            "owner": "DurstewitzLab",
+            "repo": "mmPLRNN",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T02:49:18Z",
+            "owner": "ts-kim",
+            "repo": "RevIN",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-02T06:43:47Z",
+            "owner": "ant-research",
+            "repo": "Pyraformer",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-25T16:27:38Z",
+            "owner": "salesforce",
+            "repo": "CoST",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-25T22:06:40Z",
+            "owner": "HyunWookL",
+            "repo": "PM-MemNet",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T09:11:05Z",
+            "owner": "weifantt",
+            "repo": "DEPTS",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-23T17:14:07Z",
+            "owner": "AdityaLab",
+            "repo": "Back2Future",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-29T11:36:58Z",
+            "owner": "thuml",
+            "repo": "Anomaly-Transformer",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-22T16:38:08Z",
+            "owner": "EnyanDai",
+            "repo": "GANF",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD 2022"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [paper]",
+          "description": "official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T08:15:29Z",
+            "owner": "microsoft",
+            "repo": "qlib",
+            "stars": 47363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Neural Controlled Differential Equations for Traffic Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-14T08:13:34Z",
+            "owner": "jeongwhanchoi",
+            "repo": "STG-NCDE",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-06T07:44:29Z",
+            "owner": "EDAPINENUT",
+            "repo": "CLCRN",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-04T05:25:30Z",
+            "owner": "Echo-Ji",
+            "repo": "STDEN",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-26T02:59:09Z",
+            "owner": "Sijie-umn",
+            "repo": "SSF-MIP",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IJCAI 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-27T02:05:11Z",
+            "owner": "pratham16cse",
+            "repo": "AggForecaster",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-19T04:09:34Z",
+            "owner": "galib19",
+            "repo": "DeepExtrema-IJCAI22-",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SIGMOD VLDB ICDE 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, VLDB'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:06:31Z",
+            "owner": "imperial-qore",
+            "repo": "TranAD",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection, VLDB'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T22:06:34Z",
+            "owner": "thedatumorg",
+            "repo": "TSB-UAD",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sintel: A Machine Learning Framework to Extract Insights from Signals, SIGMOD'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-08T13:36:08Z",
+            "owner": "sarahmish",
+            "repo": "sintel-paper",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robust Probabilistic Time Series Forecasting, AISTATS'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-10T01:04:22Z",
+            "owner": "tetrzim",
+            "repo": "robust-probabilistic-forecasting",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting, WWW'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-18T16:50:26Z",
+            "owner": "AdityaLab",
+            "repo": "CAMul",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis, CIKM'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-30T11:02:56Z",
+            "owner": "DAMO-DI-ML",
+            "repo": "CIKM22-TFAD",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection, AISTATS'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-01T17:10:00Z",
+            "owner": "cchallu",
+            "repo": "dghl",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Decoupling Local and Global Representations of Time Series, AISTATS'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-27T18:51:34Z",
+            "owner": "googleinterns",
+            "repo": "local_global_ts_representation",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using time-series privileged information for provably efficient learning of prediction models, AISTATS'22. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-14T16:11:01Z",
+            "owner": "RickardKarl",
+            "repo": "LearningUsingPrivilegedTimeSeries",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Papers 2021"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-28T01:14:54Z",
+            "owner": "thuml",
+            "repo": "Autoformer",
+            "stars": 2480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Time-Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-07T18:17:10Z",
+            "owner": "kamilest",
+            "repo": "conformal-rnn",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-15T22:37:28Z",
+            "owner": "AdityaLab",
+            "repo": "EpiFNP",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T15:01:30Z",
+            "owner": "ermongroup",
+            "repo": "CSDI",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Flows: Efficient Alternative to Neural ODEs [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-24T22:51:18Z",
+            "owner": "mbilos",
+            "repo": "neural-flows-experiments",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adjusting for Autocorrelated Errors in Neural Networks for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-15T02:55:32Z",
+            "owner": "Daikon-Sun",
+            "repo": "AdjustAutocorrelation",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatio-Temporal Variational Gaussian Processes [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-11T16:37:19Z",
+            "owner": "AaltoML",
+            "repo": "spatio-temporal-GPs",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Explicit Duration Switching Models for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-27T05:43:25Z",
+            "owner": "abdulfatir",
+            "repo": "REDSDS",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSMF: Shifting Seasonal Matrix Factorization [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-31T03:03:47Z",
+            "owner": "kokikwbt",
+            "repo": "ssmf",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T14:18:12Z",
+            "owner": "SamsungLabs",
+            "repo": "Drop-DTW",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T10:33:12Z",
+            "owner": "zalandoresearch",
+            "repo": "pytorch-ts",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction interval for dynamic time-series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T15:22:14Z",
+            "owner": "hamrel-cxu",
+            "repo": "EnbPI",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining Time Series Predictions With Dynamic Masks [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-31T16:01:32Z",
+            "owner": "JonathanCrabbe",
+            "repo": "Dynamask",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-02T01:48:29Z",
+            "owner": "Z-GCNETs",
+            "repo": "Z-GCNETs",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T02:05:34Z",
+            "owner": "rshyamsundar",
+            "repo": "gluonts-hierarchical-ICML-2021",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNN with particle flow for probabilistic spatio-temporal forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-16T14:19:31Z",
+            "owner": "networkslab",
+            "repo": "rnn_flow",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Transformation Learning for Deep Anomaly Detection Beyond Images [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-04-29T15:30:08Z",
+            "owner": "boschresearch",
+            "repo": "NeuTraL-AD",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event Outlier Detection in Continuous Time [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-25T01:41:19Z",
+            "owner": "siqil",
+            "repo": "CPPOD",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Neural Event Functions for Ordinary Differential Equations [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T01:06:00Z",
+            "owner": "rtqichen",
+            "repo": "torchdiffeq",
+            "stars": 6473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Rough Differential Equations for Long Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-11T16:07:01Z",
+            "owner": "jambo6",
+            "repo": "neuralRDEs",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Spatio-Temporal Point Processes [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-12-28T18:48:17Z",
+            "owner": "facebookresearch",
+            "repo": "neural_stpp",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice2Series: Reprogramming Acoustic Models for Time Series Classification [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-12T19:37:47Z",
+            "owner": "huckiyang",
+            "repo": "Voice2Series-Reprogramming",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whittle Networks: A Deep Likelihood Model for Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-13T22:11:36Z",
+            "owner": "ml-research",
+            "repo": "WhittleNetworks",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T10:33:12Z",
+            "owner": "zalandoresearch",
+            "repo": "pytorch-ts",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discrete Graph Structure Learning for Forecasting Multiple Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-30T17:29:12Z",
+            "owner": "chaoshangcs",
+            "repo": "GTS",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-Time Attention Networks for Irregularly Sampled Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-08T00:41:49Z",
+            "owner": "reml-lab",
+            "repo": "mTAN",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clairvoyance: A Pipeline Toolkit for Medical Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-16T10:07:35Z",
+            "owner": "vanderschaarlab",
+            "repo": "clairvoyance",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T04:34:33Z",
+            "owner": "sanatonek",
+            "repo": "TNC_representation_learning",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural ODE Processes [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-01T13:15:00Z",
+            "owner": "crisbodnar",
+            "repo": "ndp",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Time-series Modeling with Fourier Flows [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-08T05:43:45Z",
+            "owner": "ahmedmalaa",
+            "repo": "Fourier-flows",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Differentiable Segmentation of Sequences [paper]",
+          "description": "[slides] [official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-18T11:56:06Z",
+            "owner": "diozaka",
+            "repo": "diffseg",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-18T08:29:25Z",
+            "owner": "square-coder",
+            "repo": "STGODE",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T02:48:02Z",
+            "owner": "JLDeng",
+            "repo": "ST-Norm",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-02T16:30:49Z",
+            "owner": "zhhlee",
+            "repo": "InterFusion",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-06T22:16:46Z",
+            "owner": "eBay",
+            "repo": "RANSynCoders",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-02T15:39:19Z",
+            "owner": "wzwtrevor",
+            "repo": "Multi-Scale-One-Class-Recurrent-Neural-Networks",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Representation Learning of Multivariate Time Series using a Transformer Framework [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T05:11:11Z",
+            "owner": "gzerveas",
+            "repo": "mvts_transformer",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-10T23:06:31Z",
+            "owner": "angus924",
+            "repo": "minirocket",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast and Accurate Partial Fourier Transform for Time Series Data [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-19T15:12:36Z",
+            "owner": "snudatalab",
+            "repo": "PFT",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T06:42:54Z",
+            "owner": "zhouhaoyi",
+            "repo": "Informer2020",
+            "stars": 6515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-26T13:58:02Z",
+            "owner": "MengzhangLI",
+            "repo": "STFGNN",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-12T23:22:57Z",
+            "owner": "boreshkinai",
+            "repo": "fc-gaga",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-30T15:49:06Z",
+            "owner": "jbdj-star",
+            "repo": "st",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-12T01:46:27Z",
+            "owner": "ostadabbas",
+            "repo": "DSARF",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-02T02:19:09Z",
+            "owner": "wuyinjun-1993",
+            "repo": "DGM2",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attentive Neural Point Processes for Event Forecasting [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-03T17:10:24Z",
+            "owner": "guyulongcs",
+            "repo": "AAAI2021_ANPP",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Time Series Domain Adaptation via Sparse Associative Structure Alignment [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-06T11:49:51Z",
+            "owner": "DMIRLAB-Group",
+            "repo": "SASA",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Semi-Supervised Learning for Multivariate Time Series Imputation [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-28T02:08:08Z",
+            "owner": "zjuwuyy-DL",
+            "repo": "Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IJCAI 2021"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SIGMOD VLDB ICDE 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection, SIGMOD'21. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-26T13:53:06Z",
+            "owner": "ariaghora",
+            "repo": "robust-period",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORBITS: Online Recovery of Missing Values in Multiple Time Series Streams, VLDB'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-09T05:32:17Z",
+            "owner": "eXascaleInfolab",
+            "repo": "orbits",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AdaRNN: Adaptive Learning and Forecasting of Time Series, CIKM'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T22:06:58Z",
+            "owner": "jindongwang",
+            "repo": "transferlearning",
+            "stars": 14349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction, CIKM'21. [paper]",
+          "description": "[official code1] [official code2]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-23T16:27:45Z",
+            "owner": "deepkashiwa20",
+            "repo": "DL-Traff-Graph",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time-Series Event Prediction with Evolutionary State Graph, WSDM'21. [paper]",
+          "description": "[official code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-04T02:49:38Z",
+            "owner": "VachelHU",
+            "repo": "EvoNet",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph, WWW'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-13T03:23:15Z",
+            "owner": "panzheyi",
+            "repo": "AutoSTG",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Long Horizon Forecasting With Temporal Point Processes, WSDM'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-05T10:46:26Z",
+            "owner": "pratham16cse",
+            "repo": "DualTPP",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities, WWW'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-02T15:52:42Z",
+            "owner": "ElmiSay",
+            "repo": "DeepFEC",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding, WWW'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-05T00:35:56Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "TSCP2",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weakly Supervised Temporal Anomaly Segmentation with Dynamic Time Warping, ICCV'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-24T20:20:51Z",
+            "owner": "donalee",
+            "repo": "WETAS",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Differentiable Divergences Between Time Series, AISTATS'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-10-14T14:27:20Z",
+            "owner": "google-research",
+            "repo": "soft-dtw-divergences",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aligning Time Series on Incomparable Spaces, AISTATS'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T11:01:34Z",
+            "owner": "samcohen16",
+            "repo": "Aligning-Time-Series",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Generating Real-World Time Series Data, ICDM'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-15T22:08:49Z",
+            "owner": "acphile",
+            "repo": "RTSGAN",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series, WWW'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T20:29:02Z",
+            "owner": "alasdairtran",
+            "repo": "radflow",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network of Tensor Time Series, WWW'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-07T08:36:43Z",
+            "owner": "baoyujing",
+            "repo": "NET3",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Saliency Maps to Explain Deep Time Series Classifiers, CIKM'21. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-04T13:20:22Z",
+            "owner": "kingspp",
+            "repo": "timeseries-explain",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Other Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI4TS Papers 201X-2020 Selected"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeurIPS 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T14:51:50Z",
+            "owner": "microsoft",
+            "repo": "StemGNN",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-19T15:06:53Z",
+            "owner": "mlpotter",
+            "repo": "Transformer_Time_Series",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T08:23:38Z",
+            "owner": "LeiBAI",
+            "repo": "AGCRN",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-02T23:48:49Z",
+            "owner": "rajatsen91",
+            "repo": "deepglo",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Sparse Transformer for Time Series Forecasting, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-05T01:37:22Z",
+            "owner": "hihihihiwsf",
+            "repo": "AST",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probabilistic Time Series Forecasting with Shape and Temporal Diversity, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-16T20:18:57Z",
+            "owner": "vincent-leguen",
+            "repo": "STRIPE",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-10T14:55:12Z",
+            "owner": "mbohlkeschneider",
+            "repo": "gluon-ts",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PIDForest: Anomaly Detection via Partial Identification, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-02-18T05:13:31Z",
+            "owner": "vatsalsharan",
+            "repo": "pidforest",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Precision and Recall for Time Series, NeurIPS'18. [paper]",
+          "description": "[official code]",
+          "children": []
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BRITS: Bidirectional Recurrent Imputation for Time Series, NeurIPS'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-15T03:38:36Z",
+            "owner": "caow13",
+            "repo": "BRITS",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multivariate Time Series Imputation with Generative Adversarial Networks, NeurIPS'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-20T13:09:50Z",
+            "owner": "Luoyonghong",
+            "repo": "Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAOMI: Non-autoregressive multiresolution sequence imputation, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-25T22:25:25Z",
+            "owner": "felixykliu",
+            "repo": "NAOMI",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Time Series Imputation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Ordinary Differential Equations, NeurIPS'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T01:06:00Z",
+            "owner": "rtqichen",
+            "repo": "torchdiffeq",
+            "stars": 6473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Controlled Differential Equations for Irregular Time Series, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-22T13:32:29Z",
+            "owner": "patrick-kidger",
+            "repo": "NeuralCDE",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-03T23:27:05Z",
+            "owner": "YuliaRubanova",
+            "repo": "latent_ode",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-26T14:46:48Z",
+            "owner": "edebrouwer",
+            "repo": "gru_ode_bayes",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Time Series Neural xDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "High-recall causal discovery for autocorrelated time series with latent confounders, NeurIPS'20. [paper]",
+          "description": "[paper2] [official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-14T22:41:36Z",
+            "owner": "jakobrunge",
+            "repo": "tigramite",
+            "stars": 1707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time-series Generative Adversarial Networks, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-05T17:06:00Z",
+            "owner": "jsyoon0823",
+            "repo": "TimeGAN",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Scalable Representation Learning for Multivariate Time Series, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-31T15:37:50Z",
+            "owner": "White-Link",
+            "repo": "UnsupervisedScalableRepresentationLearningTimeSeries",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging, NeurIPS'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T21:33:18Z",
+            "owner": "perslev",
+            "repo": "U-Time",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmarking Deep Learning Interpretability in Time Series Predictions, NeurIPS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-07T02:34:02Z",
+            "owner": "ayaabdelsalam91",
+            "repo": "TS-Interpretability-Benchmark",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICML 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Soft-DTW: a Differentiable Loss Function for Time-Series, ICML'17. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-19T17:52:43Z",
+            "owner": "mblondel",
+            "repo": "soft-dtw",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoregressive convolutional neural networks for asynchronous time series, ICML'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-07-22T16:13:43Z",
+            "owner": "mbinkowski",
+            "repo": "nntimeseries",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Set Functions for Time Series, ICML'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-25T09:32:37Z",
+            "owner": "BorgwardtLab",
+            "repo": "Set_Functions_for_Time_Series",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders, ICML'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-07T13:14:30Z",
+            "owner": "ioanabica",
+            "repo": "Time-Series-Deconfounder",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T22:00:57Z",
+            "owner": "steveli",
+            "repo": "partial-encoder-decoder",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models, ICML'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-08-04T16:24:27Z",
+            "owner": "Biwei-Huang",
+            "repo": "Causal-discovery-and-forecasting-in-nonstationary-environments",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Forecasting Sequential Data Using Consistent Koopman Autoencoders, ICML'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-23T21:29:23Z",
+            "owner": "erichson",
+            "repo": "koopmanAE",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Attacks on Probabilistic Autoregressive Forecasting Models, ICML'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T07:25:14Z",
+            "owner": "eth-sri",
+            "repo": "probabilistic-forecasts-attacks",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICLR 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SOM-VAE: Interpretable Discrete Representation Learning on Time Series, ICLR'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:30:08Z",
+            "owner": "ratschlab",
+            "repo": "SOM-VAE",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interpolation-Prediction Networks for Irregularly Sampled Time Series, ICLR'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T16:13:46Z",
+            "owner": "mlds-lab",
+            "repo": "interp-net",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting, ICLR'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-09T17:40:10Z",
+            "owner": "liyaguang",
+            "repo": "DCRNN",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, ICLR'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-08T15:46:29Z",
+            "owner": "ServiceNow",
+            "repo": "N-BEATS",
+            "stars": 612
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KDD 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data, KDD'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-19T16:04:42Z",
+            "owner": "floft",
+            "repo": "codats",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-26T09:34:27Z",
+            "owner": "ariaghora",
+            "repo": "fast-robust-stl",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T22:00:30Z",
+            "owner": "nnzhan",
+            "repo": "MTGNN",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-01T18:28:40Z",
+            "owner": "z331565360",
+            "repo": "State-Frequency-Memory-stock-prediction",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-19T00:46:58Z",
+            "owner": "yasuko-matsubara",
+            "repo": "orbitmap",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events, KDD'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-24T02:43:13Z",
+            "owner": "deepkashiwa20",
+            "repo": "DeepUrbanEvent",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units, KDD'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-10T14:11:04Z",
+            "owner": "pratham16cse",
+            "repo": "ARU",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T13:42:45Z",
+            "owner": "khundman",
+            "repo": "telemanom",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-03T00:44:49Z",
+            "owner": "NetManAIOps",
+            "repo": "OmniAnomaly",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-18T09:04:09Z",
+            "owner": "manigalati",
+            "repo": "usad",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AAAI 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RobustSTL: A Robust Seasonal-Trend Decomposition Procedure for Long Time Series, AAAI'19. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-17T15:49:11Z",
+            "owner": "LeeDoYup",
+            "repo": "RobustSTL",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-07T06:35:32Z",
+            "owner": "petecheng",
+            "repo": "Time2Graph",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-18T23:36:09Z",
+            "owner": "dongkuanx27",
+            "repo": "DeepTrends",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Factorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T05:56:25Z",
+            "owner": "ztangent",
+            "repo": "multimodal-dmm",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TapNet: Multivariate Time Series Classification with Attentional Prototype Network, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": []
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting, AAAI'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-13T01:49:03Z",
+            "owner": "guoshnBJTU",
+            "repo": "ASTGCN-2019-pytorch",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-12T08:07:09Z",
+            "owner": "zhengchuanpan",
+            "repo": "GMAN",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-04T09:29:10Z",
+            "owner": "Davidham3",
+            "repo": "STSGCN",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSTN+: Context-aware Spatial Temporal Neural Network for Crowd Flow Prediction in Metropolis, AAAI'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-10T07:04:01Z",
+            "owner": "vonfeng",
+            "repo": "DeepSTN",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting, AAAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-16T01:47:27Z",
+            "owner": "yokotatsuya",
+            "repo": "BHT-ARIMA",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IJCAI 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T01:20:33Z",
+            "owner": "VeritasYin",
+            "repo": "STGCN_IJCAI-18",
+            "stars": 1238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction, IJCAI'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-30T05:22:23Z",
+            "owner": "yoshall",
+            "repo": "GeoMAN",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction, IJCAI'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-20T06:33:32Z",
+            "owner": "NingxuanFeng",
+            "repo": "PewLSTM",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuCast: Seasonal Neural Forecast of Power Grid Time Series, IJCAI'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-05-30T11:09:57Z",
+            "owner": "chenpudigege",
+            "repo": "NeuCast",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Outlier Detection for Time Series with Recurrent Autoencoder Ensembles, IJCAI'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-28T14:16:12Z",
+            "owner": "tungk",
+            "repo": "OED",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series, IJCAI'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2021-08-31T09:27:57Z",
+            "owner": "imbingox",
+            "repo": "BeatGAN",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SIGMOD VLDB ICDE 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures, SIGMOD'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-06-18T03:11:49Z",
+            "owner": "thedatumorg",
+            "repo": "TSDistEval",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mind the gap: an experimental evaluation of imputation of missing values techniques in time series, VLDB'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-23T12:47:50Z",
+            "owner": "eXascaleInfolab",
+            "repo": "bench-vldb20",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active Model Selection for Positive Unlabeled Time Series Classification, ICDE'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-11-11T05:04:34Z",
+            "owner": "sliang11",
+            "repo": "Active-Model-Selection-for-PUTSC",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc 201X-2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GP-VAE: Deep probabilistic time series imputation, AISTATS'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:50:51Z",
+            "owner": "ratschlab",
+            "repo": "GP-VAE",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural Networks, WWW'19. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-16T18:38:17Z",
+            "owner": "yscacaca",
+            "repo": "STFNets",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "General Time Series Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks, SIGIR'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-07T09:03:37Z",
+            "owner": "laiguokun",
+            "repo": "LSTNet",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction, WWW'20. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-05T08:00:04Z",
+            "owner": "YangLinyi",
+            "repo": "HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications, WWW'18. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-06T03:12:00Z",
+            "owner": "NetManAIOps",
+            "repo": "donut",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T15:16:12Z",
+            "owner": "ML4ITS",
+            "repo": "mtad-gat-pytorch",
+            "stars": 395
+          }
+        }
+      ],
+      "title": "Time Series Anomaly Detection"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:42:50.574Z",
+    "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
+    "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
+    "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI for Time Series (AI4TS) Papers, Tutorials, and Surveys with stars"
+  }
+}
