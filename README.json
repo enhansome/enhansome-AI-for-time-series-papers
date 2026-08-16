@@ -24,7 +24,7 @@
             "last_commit": "2024-08-08T15:03:54Z",
             "owner": "qingsongedu",
             "repo": "time-series-transformers-review",
-            "stars": 2999
+            "stars": 3000
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-12-22T08:19:51Z",
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2026-08-03T09:24:28Z",
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2023-12-29T11:36:58Z",
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1037
+            "stars": 1038
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2026-07-23T08:15:29Z",
             "owner": "microsoft",
             "repo": "qlib",
-            "stars": 47421
+            "stars": 47459
           }
         },
         {
@@ -1501,7 +1501,7 @@
             "last_commit": "2026-04-29T05:11:11Z",
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -1979,7 +1979,7 @@
             "last_commit": "2023-02-19T15:06:53Z",
             "owner": "mlpotter",
             "repo": "Transformer_Time_Series",
-            "stars": 598
+            "stars": 599
           }
         },
         {
@@ -2219,7 +2219,7 @@
             "last_commit": "2026-02-05T17:06:00Z",
             "owner": "jsyoon0823",
             "repo": "TimeGAN",
-            "stars": 1059
+            "stars": 1060
           }
         },
         {
@@ -2233,7 +2233,7 @@
             "last_commit": "2024-07-31T15:37:50Z",
             "owner": "White-Link",
             "repo": "UnsupervisedScalableRepresentationLearningTimeSeries",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -2247,7 +2247,7 @@
             "last_commit": "2026-06-24T21:33:18Z",
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 315
+            "stars": 316
           }
         },
         {
@@ -2612,7 +2612,7 @@
             "last_commit": "2024-03-03T00:44:49Z",
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -3044,7 +3044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:43:16.208Z",
+    "last_updated": "2026-08-16T07:44:34.164Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
     "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
