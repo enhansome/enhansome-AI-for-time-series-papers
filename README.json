@@ -162,7 +162,7 @@
             "last_commit": "2025-10-15T11:40:18Z",
             "owner": "KimMeen",
             "repo": "Time-LLM",
-            "stars": 2683
+            "stars": 2682
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2025-07-17T15:53:48Z",
             "owner": "thuml",
             "repo": "iTransformer",
-            "stars": 2198
+            "stars": 2197
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2026-07-23T08:15:29Z",
             "owner": "microsoft",
             "repo": "qlib",
-            "stars": 47459
+            "stars": 47606
           }
         },
         {
@@ -928,7 +928,7 @@
             "last_commit": "2025-02-28T01:14:54Z",
             "owner": "thuml",
             "repo": "Autoformer",
-            "stars": 2478
+            "stars": 2479
           }
         },
         {
@@ -1085,7 +1085,7 @@
             "last_commit": "2024-06-14T10:33:12Z",
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1370
+            "stars": 1371
           }
         },
         {
@@ -1223,7 +1223,7 @@
             "last_commit": "2021-05-11T16:07:01Z",
             "owner": "jambo6",
             "repo": "neuralRDEs",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2024-06-14T10:33:12Z",
             "owner": "zalandoresearch",
             "repo": "pytorch-ts",
-            "stars": 1370
+            "stars": 1371
           }
         },
         {
@@ -1741,7 +1741,7 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14346
+            "stars": 14347
           }
         },
         {
@@ -2171,7 +2171,7 @@
             "last_commit": "2020-12-03T23:27:05Z",
             "owner": "YuliaRubanova",
             "repo": "latent_ode",
-            "stars": 598
+            "stars": 599
           }
         },
         {
@@ -2598,7 +2598,7 @@
             "last_commit": "2025-01-17T13:42:45Z",
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1183
+            "stars": 1184
           }
         },
         {
@@ -2733,7 +2733,7 @@
             "last_commit": "2022-04-12T08:07:09Z",
             "owner": "zhengchuanpan",
             "repo": "GMAN",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -3036,7 +3036,7 @@
             "last_commit": "2024-01-16T15:16:12Z",
             "owner": "ML4ITS",
             "repo": "mtad-gat-pytorch",
-            "stars": 395
+            "stars": 396
           }
         }
       ],
@@ -3044,7 +3044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:44:34.164Z",
+    "last_updated": "2026-08-17T07:59:40.069Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
     "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
