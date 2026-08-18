@@ -94,7 +94,7 @@
             "last_commit": "2024-04-28T23:43:39Z",
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2024-04-28T23:43:39Z",
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-10-15T11:40:18Z",
             "owner": "KimMeen",
             "repo": "Time-LLM",
-            "stars": 2682
+            "stars": 2685
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2023-09-06T13:21:07Z",
             "owner": "ChunjingXiao",
             "repo": "DiffAD",
-            "stars": 123
+            "stars": 124
           }
         }
       ],
@@ -643,7 +643,7 @@
             "last_commit": "2026-07-23T08:15:29Z",
             "owner": "microsoft",
             "repo": "qlib",
-            "stars": 47606
+            "stars": 47678
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2025-04-04T01:06:00Z",
             "owner": "rtqichen",
             "repo": "torchdiffeq",
-            "stars": 6473
+            "stars": 6472
           }
         },
         {
@@ -1741,7 +1741,7 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347
+            "stars": 14350
           }
         },
         {
@@ -2143,7 +2143,7 @@
             "last_commit": "2025-04-04T01:06:00Z",
             "owner": "rtqichen",
             "repo": "torchdiffeq",
-            "stars": 6473
+            "stars": 6472
           }
         },
         {
@@ -2522,7 +2522,7 @@
             "last_commit": "2023-07-06T22:00:30Z",
             "owner": "nnzhan",
             "repo": "MTGNN",
-            "stars": 938
+            "stars": 939
           }
         },
         {
@@ -2612,7 +2612,7 @@
             "last_commit": "2024-03-03T00:44:49Z",
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -2747,7 +2747,7 @@
             "last_commit": "2020-02-04T09:29:10Z",
             "owner": "Davidham3",
             "repo": "STSGCN",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -3044,7 +3044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:59:40.069Z",
+    "last_updated": "2026-08-18T07:53:05.082Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
     "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
