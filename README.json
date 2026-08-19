@@ -645,7 +645,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47735
+                    "stars": 47738
                   }
                 },
                 {
@@ -3263,7 +3263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:08:52.540Z",
+    "last_updated": "2026-08-19T07:53:22.170Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
     "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
