@@ -284,7 +284,7 @@
                     "last_commit": "2023-09-06T13:21:07Z",
                     "owner": "ChunjingXiao",
                     "repo": "DiffAD",
-                    "stars": 124
+                    "stars": 125
                   }
                 }
               ],
@@ -645,7 +645,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47738
+                    "stars": 47747
                   }
                 },
                 {
@@ -778,7 +778,7 @@
                     "last_commit": "2024-07-25T11:06:31Z",
                     "owner": "imperial-qore",
                     "repo": "TranAD",
-                    "stars": 698
+                    "stars": 699
                   }
                 },
                 {
@@ -1844,7 +1844,7 @@
                     "last_commit": "2025-02-18T22:06:58Z",
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14351
+                    "stars": 14349
                   }
                 },
                 {
@@ -2786,7 +2786,7 @@
                     "last_commit": "2024-03-03T00:44:49Z",
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 941
+                    "stars": 942
                   }
                 },
                 {
@@ -3245,7 +3245,7 @@
                     "last_commit": "2024-01-16T15:16:12Z",
                     "owner": "ML4ITS",
                     "repo": "mtad-gat-pytorch",
-                    "stars": 397
+                    "stars": 398
                   }
                 }
               ],
@@ -3263,8 +3263,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:53:22.170Z",
+    "last_updated": "2026-08-19T12:05:39.220Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
+    "original_repository_id": 499330318,
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
     "enhanced_repository": "enhansome/enhansome-AI-for-time-series-papers",
     "enhanced_repository_description": null,
