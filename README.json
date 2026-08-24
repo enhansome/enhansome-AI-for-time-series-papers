@@ -645,7 +645,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47853
+                    "stars": 47889
                   }
                 },
                 {
@@ -1644,7 +1644,7 @@
                     "last_commit": "2025-06-20T06:42:54Z",
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6513
+                    "stars": 6516
                   }
                 },
                 {
@@ -1978,7 +1978,7 @@
                     "last_commit": "2021-10-14T14:27:20Z",
                     "owner": "google-research",
                     "repo": "soft-dtw-divergences",
-                    "stars": 135
+                    "stars": 134
                   }
                 },
                 {
@@ -2341,7 +2341,7 @@
                     "last_commit": "2026-01-14T22:41:36Z",
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1708
+                    "stars": 1709
                   }
                 },
                 {
@@ -3263,7 +3263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:46:24.143Z",
+    "last_updated": "2026-08-24T08:03:51.576Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_id": 499330318,
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
