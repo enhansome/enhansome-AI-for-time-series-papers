@@ -241,6 +241,28 @@
               "description": null,
               "node_type": "group",
               "title": "Time Series Forecasting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Explaining Time Series via Contrastive and Locally Sparse Perturbations [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695412308,
+                    "language": "Python",
+                    "last_commit": "2024-04-12T03:37:00Z",
+                    "owner": "zichuan-liu",
+                    "repo": "ContraLSP",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Others"
             }
           ],
           "description": null,
@@ -253,6 +275,57 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 557199583,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T13:12:51Z",
+                    "owner": "yuqinie98",
+                    "repo": "PatchTST",
+                    "stars": 2686
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Forecasting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 601044104,
+                    "language": "Python",
+                    "last_commit": "2026-04-18T21:01:40Z",
+                    "owner": "thuml",
+                    "repo": "Time-Series-Library",
+                    "stars": 12770
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Time Series Analysis"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2023"
+        },
         {
           "children": [
             {
@@ -296,6 +369,35 @@
           "description": null,
           "node_type": "group",
           "title": "KDD 2023"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AirFormer: Predicting Nationwide Air Quality in China with Transformers [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 571442645,
+                    "language": "Python",
+                    "last_commit": "2022-12-29T08:36:55Z",
+                    "owner": "yoshall",
+                    "repo": "AirFormer",
+                    "stars": 165
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Forecasting"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2023"
         }
       ],
       "title": "AI4TS Papers 2023"
@@ -341,6 +443,28 @@
               "description": null,
               "node_type": "group",
               "title": "Time Series Forecasting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 468965154,
+                    "language": "Python",
+                    "last_commit": "2024-05-07T10:57:08Z",
+                    "owner": "mims-harvard",
+                    "repo": "TFC-pretraining",
+                    "stars": 527
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Time Series Analysis"
             }
           ],
           "description": null,
@@ -635,6 +759,35 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting [code]",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 558409865,
+                    "language": "Python",
+                    "last_commit": "2023-05-12T14:12:44Z",
+                    "owner": "DAMO-DI-ML",
+                    "repo": "KDD2022-Quatformer",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Forecasting"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "KDD 2022"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [paper]",
                   "description": "official code]",
                   "children": [],
@@ -645,7 +798,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47889
+                    "stars": 47902
                   }
                 },
                 {
@@ -712,6 +865,28 @@
               "description": null,
               "node_type": "group",
               "title": "Time Series Forecasting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TS2Vec: Towards Universal Representation of Time Series [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373735271,
+                    "language": "Python",
+                    "last_commit": "2024-07-29T22:09:18Z",
+                    "owner": "zhihanyue",
+                    "repo": "ts2vec",
+                    "stars": 867
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Time Series Analysis"
             }
           ],
           "description": null,
@@ -764,6 +939,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards Spatio-Temporal Aware Traffic Time Series Forecasting, ICDE'22. [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 448912775,
+                    "language": "Python",
+                    "last_commit": "2022-01-19T06:54:51Z",
+                    "owner": "razvanc92",
+                    "repo": "ST-WA",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Forecasting"
+            },
             {
               "children": [
                 {
@@ -998,6 +1195,28 @@
               "description": null,
               "node_type": "group",
               "title": "Time Series Forecasting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Revisiting Time Series Outlier Detection: Definitions and Benchmarks [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 293719013,
+                    "language": "Python",
+                    "last_commit": "2023-09-11T15:48:11Z",
+                    "owner": "datamllab",
+                    "repo": "tods",
+                    "stars": 1666
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Anomaly Detection"
             },
             {
               "children": [
@@ -1746,6 +1965,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Graph Neural Network-Based Anomaly Detection in Multivariate Time Series [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 337311971,
+                    "language": "Python",
+                    "last_commit": "2023-07-28T03:00:05Z",
+                    "owner": "d-ailin",
+                    "repo": "GDN",
+                    "stars": 611
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Anomaly Detection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Learnable Dynamic Temporal Pooling for Time Series Classification [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318056152,
+                    "language": "TypeScript",
+                    "last_commit": "2022-03-31T02:58:04Z",
+                    "owner": "donalee",
+                    "repo": "DTW-Pool",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Classification"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Time Series Domain Adaptation via Sparse Associative Structure Alignment [paper]",
                   "description": "[official code]",
                   "children": [],
@@ -1786,6 +2049,57 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 368554283,
+                    "language": "Python",
+                    "last_commit": "2021-06-06T09:21:05Z",
+                    "owner": "jarheadjoe",
+                    "repo": "Adv-spec-ker-matching",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Time Series Analysis"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IJCAI 2021"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series, VLDB'21. [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 389924693,
+                    "language": "Python",
+                    "last_commit": "2024-03-13T12:49:37Z",
+                    "owner": "exathlonbenchmark",
+                    "repo": "exathlon",
+                    "stars": 69
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Anomaly Detection"
+            },
             {
               "children": [
                 {
@@ -2207,6 +2521,28 @@
               "description": null,
               "node_type": "group",
               "title": "Time Series Anomaly Detection"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Learning Representations for Time Series Clustering, NeurIPS'19. [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219537343,
+                    "language": "Python",
+                    "last_commit": "2021-01-13T06:44:54Z",
+                    "owner": "qianlima-lab",
+                    "repo": "DTCR",
+                    "stars": 97
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Time Series Clustering"
             },
             {
               "children": [
@@ -3263,7 +3599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:51.576Z",
+    "last_updated": "2026-08-24T14:09:25.670Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_id": 499330318,
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",

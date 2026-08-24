@@ -351,8 +351,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Other Time Series Analysis
 
+* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,770 | 🐛 45 | 🌐 Python | 📅 2026-04-18
 * Effectively Modeling Time Series with Simple Discrete State Spaces [\[paper\]](https://openreview.net/forum?id=2EpjkjzdCAa) [\[official code\]]()
-* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,769 | 🐛 45 | 🌐 Python | 📅 2026-04-18
 * Contrastive Learning for Unsupervised Domain Adaptation of Time Series [\[paper\]](https://openreview.net/forum?id=xPkJYRsQGM) [\[official code\]]()
 * Recursive Time Series Data Augmentation [\[paper\]](https://openreview.net/forum?id=5lgD4vU-l24s) [\[official code\]]()
 * Multivariate Time-series Imputation with Disentangled Temporal Representations [\[paper\]](https://openreview.net/forum?id=rdjeCNUS6TG) [\[official code\]]()
@@ -563,7 +563,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 47,889 | 🐛 469 | 🌐 Python | 📅 2026-07-23
+* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 47,902 | 🐛 470 | 🌐 Python | 📅 2026-07-23
 * Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-09-14
 * Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2022-03-06
 * STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2022-09-04
@@ -615,9 +615,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
+* Towards Spatio-Temporal Aware Traffic Time Series Forecasting, ICDE'22. [\[paper\]](https://arxiv.org/abs/2203.15737) [\[official code\]](https://github.com/razvanc92/st-wa) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-01-19
 * METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p224-cui.pdf) [\[official code\]](https://zheng-kai.com/code/metro_single_s.zip)
 * AutoCTS: Automated Correlated Time Series Forecasting, VLDB'22. [\[paper\]](http://vldb.org/pvldb/vol15/p971-wu.pdf)
-* Towards Spatio-Temporal Aware Traffic Time Series Forecasting, ICDE'22. [\[paper\]](https://arxiv.org/abs/2203.15737) [\[official code\]](https://github.com/razvanc92/st-wa) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-01-19
 
 #### Time Series Anomaly Detection
 
@@ -798,8 +798,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Classification
 
-* Correlative Channel-Aware Fusion for Multi-View Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16830/16637)
 * Learnable Dynamic Temporal Pooling for Time Series Classification [\[paper\]](https://arxiv.org/abs/2104.02577) [\[official code\]](https://github.com/donalee/DTW-Pool) ⭐ 37 | 🐛 1 | 🌐 TypeScript | 📅 2022-03-31
+* Correlative Channel-Aware Fusion for Multi-View Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16830/16637)
 * ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
 * Joint-Label Learning by Dual Augmentation for Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17071)
 
@@ -821,9 +821,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Other Time Series Analysis
 
+* Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation [\[paper\]](https://www.ijcai.org/proceedings/2021/378) [\[official code\]](https://github.com/jarheadjoe/Adv-spec-ker-matching) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2021-06-06
 * Time Series Data Augmentation for Deep Learning: A Survey [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Time-Series Representation Learning via Temporal and Contextual Contrasting [\[paper\]](https://arxiv.org/abs/2106.14112) [\[official code\]](https://arxiv.org/abs/2106.14112)
-* Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation [\[paper\]](https://www.ijcai.org/proceedings/2021/378) [\[official code\]](https://github.com/jarheadjoe/Adv-spec-ker-matching) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2021-06-06
 * Time-Aware Multi-Scale RNNs for Time Series Modeling [\[paper\]](https://www.ijcai.org/proceedings/2021/315)
 * TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data [\[paper\]](https://arxiv.org/abs/2105.00412)
 
