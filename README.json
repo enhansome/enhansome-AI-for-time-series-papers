@@ -19,7 +19,7 @@
                     "last_commit": "2024-08-08T15:03:54Z",
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3002
+                    "stars": 3003
                   }
                 },
                 {
@@ -313,7 +313,7 @@
                     "last_commit": "2026-04-18T21:01:40Z",
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12775
+                    "stars": 12782
                   }
                 }
               ],
@@ -386,7 +386,7 @@
                     "last_commit": "2022-12-29T08:36:55Z",
                     "owner": "yoshall",
                     "repo": "AirFormer",
-                    "stars": 165
+                    "stars": 166
                   }
                 }
               ],
@@ -725,7 +725,7 @@
                     "last_commit": "2023-12-29T11:36:58Z",
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1037
+                    "stars": 1038
                   }
                 },
                 {
@@ -798,7 +798,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47918
+                    "stars": 47942
                   }
                 },
                 {
@@ -1485,7 +1485,7 @@
                     "last_commit": "2025-04-04T01:06:00Z",
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6476
+                    "stars": 6477
                   }
                 },
                 {
@@ -1752,7 +1752,7 @@
                     "last_commit": "2021-09-02T16:30:49Z",
                     "owner": "zhhlee",
                     "repo": "InterFusion",
-                    "stars": 238
+                    "stars": 239
                   }
                 },
                 {
@@ -1819,7 +1819,7 @@
                     "last_commit": "2022-04-10T23:06:31Z",
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 345
+                    "stars": 344
                   }
                 },
                 {
@@ -1975,7 +1975,7 @@
                     "last_commit": "2023-07-28T03:00:05Z",
                     "owner": "d-ailin",
                     "repo": "GDN",
-                    "stars": 611
+                    "stars": 612
                   }
                 }
               ],
@@ -1997,7 +1997,7 @@
                     "last_commit": "2022-03-31T02:58:04Z",
                     "owner": "donalee",
                     "repo": "DTW-Pool",
-                    "stars": 37
+                    "stars": 38
                   }
                 }
               ],
@@ -2158,7 +2158,7 @@
                     "last_commit": "2025-02-18T22:06:58Z",
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14348
+                    "stars": 14349
                   }
                 },
                 {
@@ -2402,7 +2402,7 @@
                     "last_commit": "2024-05-31T14:51:50Z",
                     "owner": "microsoft",
                     "repo": "StemGNN",
-                    "stars": 614
+                    "stars": 615
                   }
                 },
                 {
@@ -2610,7 +2610,7 @@
                     "last_commit": "2025-04-04T01:06:00Z",
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6476
+                    "stars": 6477
                   }
                 },
                 {
@@ -3107,7 +3107,7 @@
                     "last_commit": "2025-01-17T13:42:45Z",
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1186
+                    "stars": 1187
                   }
                 },
                 {
@@ -3137,7 +3137,7 @@
                     "last_commit": "2024-03-18T09:04:09Z",
                     "owner": "manigalati",
                     "repo": "usad",
-                    "stars": 268
+                    "stars": 270
                   }
                 }
               ],
@@ -3599,7 +3599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:57:10.650Z",
+    "last_updated": "2026-08-26T07:58:00.899Z",
     "original_repository": "qingsongedu/awesome-AI-for-time-series-papers",
     "original_repository_id": 499330318,
     "original_repository_sha": "8a67651d3c6b1d3c2570c31cfa7dd7376dae2ff9",
