@@ -291,7 +291,7 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2686
+                    "stars": 2687
                   }
                 }
               ],
@@ -798,7 +798,7 @@
                     "last_commit": "2026-07-23T08:15:29Z",
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 47974
+                    "stars": 47981
                   }
                 },
                 {
@@ -880,7 +880,7 @@
                     "last_commit": "2024-07-29T22:09:18Z",
                     "owner": "zhihanyue",
                     "repo": "ts2vec",
-                    "stars": 868
+                    "stars": 869
                   }
                 }
               ],
@@ -3599,7 +3599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:04.401Z",
+    "last_updated": "2026-08-27T18:16:49.965Z",
     "original_repository_info": {
       "archived": false,
       "id": 499330318,
