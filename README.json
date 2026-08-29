@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12792,
+                    "stars": 12797,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -578,7 +578,7 @@
                     "open_issues": 24,
                     "owner": "DAMO-DI-ML",
                     "repo": "KDD2023-DCdetector",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1038,
+                    "stars": 1039,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-23T08:15:29Z",
-                    "open_issues": 469,
+                    "open_issues": 470,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48020,
+                    "stars": 48032,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2987,7 +2987,7 @@
                     "open_issues": 1,
                     "owner": "donalee",
                     "repo": "DTW-Pool",
-                    "stars": 38,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:07.209Z",
+    "last_updated": "2026-08-29T13:09:43.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",

@@ -351,7 +351,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Other Time Series Analysis
 
-* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,792 | 🐛 46 | 🌐 Python | 📅 2026-04-18
+* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,797 | 🐛 46 | 🌐 Python | 📅 2026-04-18
 * Effectively Modeling Time Series with Simple Discrete State Spaces [\[paper\]](https://openreview.net/forum?id=2EpjkjzdCAa) [\[official code\]]()
 * Contrastive Learning for Unsupervised Domain Adaptation of Time Series [\[paper\]](https://openreview.net/forum?id=xPkJYRsQGM) [\[official code\]]()
 * Recursive Time Series Data Augmentation [\[paper\]](https://openreview.net/forum?id=5lgD4vU-l24s) [\[official code\]]()
@@ -365,7 +365,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Anomaly Detection
 
-* DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2306.10347) [\[official code\]](https://github.com/DAMO-DI-ML/KDD2023-DCdetector) ⭐ 273 | 🐛 24 | 🌐 Python | 📅 2023-10-09
+* DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection [\[paper\]](https://arxiv.org/abs/2306.10347) [\[official code\]](https://github.com/DAMO-DI-ML/KDD2023-DCdetector) ⭐ 274 | 🐛 24 | 🌐 Python | 📅 2023-10-09
 * Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models [\[paper\]](https://github.com/ChunjingXiao/DiffAD/blob/main/KDD_23_DiffAD.pdf) ⭐ 125 | 🐛 9 | 🌐 Python | 📅 2023-09-06 [\[official code\]](https://github.com/ChunjingXiao/DiffAD) ⭐ 125 | 🐛 9 | 🌐 Python | 📅 2023-09-06
 * Precursor-of-Anomaly Detection for Irregular Time Series [\[paper\]](https://arxiv.org/abs/2306.15489)
 
@@ -505,7 +505,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Anomaly Detection
 
-* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [\[paper\]](https://openreview.net/forum?id=LzQQ89U1qm_) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) ⭐ 1,038 | 🐛 34 | 🌐 Python | 📅 2023-12-29
+* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [\[paper\]](https://openreview.net/forum?id=LzQQ89U1qm_) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) ⭐ 1,039 | 🐛 34 | 🌐 Python | 📅 2023-12-29
 * Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series [\[paper\]](https://openreview.net/forum?id=45L_dgP48Vd) [\[official code\]](https://github.com/enyandai/ganf) ⭐ 163 | 🐛 6 | 🌐 Python | 📅 2022-12-22
 
 #### Time Series Classification
@@ -563,7 +563,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 48,020 | 🐛 469 | 🌐 Python | 📅 2026-07-23
+* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 48,032 | 🐛 470 | 🌐 Python | 📅 2026-07-23
 * Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE) ⭐ 175 | 🐛 3 | 🌐 Python | 📅 2024-09-14
 * Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2022-03-06
 * STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2022-09-04
@@ -798,7 +798,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Classification
 
-* Learnable Dynamic Temporal Pooling for Time Series Classification [\[paper\]](https://arxiv.org/abs/2104.02577) [\[official code\]](https://github.com/donalee/DTW-Pool) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2022-03-31
+* Learnable Dynamic Temporal Pooling for Time Series Classification [\[paper\]](https://arxiv.org/abs/2104.02577) [\[official code\]](https://github.com/donalee/DTW-Pool) ⭐ 37 | 🐛 1 | 🌐 TypeScript | 📅 2022-03-31
 * Correlative Channel-Aware Fusion for Multi-View Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16830/16637)
 * ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
 * Joint-Label Learning by Dual Augmentation for Time Series Classification [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17071)
