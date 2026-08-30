@@ -265,7 +265,7 @@
                     "open_issues": 2,
                     "owner": "qianlima-lab",
                     "repo": "time-series-ptms",
-                    "stars": 227,
+                    "stars": 228,
                     "topics": [
                       "anomaly-detection",
                       "classification",
@@ -372,7 +372,7 @@
                     "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 470,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48032,
+                    "stars": 48098,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2715,7 +2715,7 @@
                     "open_issues": 35,
                     "owner": "gzerveas",
                     "repo": "mvts_transformer",
-                    "stars": 874,
+                    "stars": 875,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14347,
+                    "stars": 14348,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 941,
+                    "stars": 942,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 943,
+                    "stars": 944,
                     "topics": [
                       "code",
                       "dataset"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:09:43.058Z",
+    "last_updated": "2026-08-30T12:52:10.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
