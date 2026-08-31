@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3004,
+                    "stars": 3006,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -511,7 +511,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2688,
+                    "stars": 2691,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12797,
+                    "stars": 12800,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 470,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48098,
+                    "stars": 48145,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1511,7 +1511,7 @@
                     "open_issues": 2,
                     "owner": "imperial-qore",
                     "repo": "TranAD",
-                    "stars": 699,
+                    "stars": 700,
                     "topics": [
                       "adversarial-learning",
                       "anomaly-detection",
@@ -2715,7 +2715,7 @@
                     "open_issues": 35,
                     "owner": "gzerveas",
                     "repo": "mvts_transformer",
-                    "stars": 875,
+                    "stars": 876,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14348,
+                    "stars": 14349,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3607,7 +3607,7 @@
                     "open_issues": 8,
                     "owner": "LeiBAI",
                     "repo": "AGCRN",
-                    "stars": 441,
+                    "stars": 442,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3948,7 +3948,7 @@
                     "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1711,
+                    "stars": 1712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4022,7 +4022,7 @@
                     "open_issues": 9,
                     "owner": "perslev",
                     "repo": "U-Time",
-                    "stars": 317,
+                    "stars": 316,
                     "topics": [
                       "deep-learning",
                       "fully-convolutional-networks",
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 942,
+                    "stars": 943,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4624,7 +4624,7 @@
                     "open_issues": 6,
                     "owner": "manigalati",
                     "repo": "usad",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4750,7 +4750,7 @@
                     "open_issues": 3,
                     "owner": "guoshnBJTU",
                     "repo": "ASTGCN-2019-pytorch",
-                    "stars": 747,
+                    "stars": 748,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:52:10.551Z",
+    "last_updated": "2026-08-31T15:04:37.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
