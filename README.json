@@ -166,7 +166,7 @@
                     "open_issues": 2,
                     "owner": "WenjieDu",
                     "repo": "Awesome_Imputation",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "benchmark",
                       "data-mining",
@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2686,
+                    "stars": 2688,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -511,7 +511,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2691,
+                    "stars": 2693,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12800,
+                    "stars": 12806,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -578,7 +578,7 @@
                     "open_issues": 24,
                     "owner": "DAMO-DI-ML",
                     "repo": "KDD2023-DCdetector",
-                    "stars": 274,
+                    "stars": 275,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -786,7 +786,7 @@
                     "open_issues": 6,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1039,
+                    "stars": 1040,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1238,7 +1238,7 @@
                     "open_issues": 470,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48145,
+                    "stars": 48179,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2481,
+                    "stars": 2482,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -2959,7 +2959,7 @@
                     "open_issues": 48,
                     "owner": "d-ailin",
                     "repo": "GDN",
-                    "stars": 612,
+                    "stars": 613,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14349,
+                    "stars": 14350,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 943,
+                    "stars": 944,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4771,7 +4771,7 @@
                     "open_issues": 33,
                     "owner": "zhengchuanpan",
                     "repo": "GMAN",
-                    "stars": 540,
+                    "stars": 541,
                     "topics": [
                       "aaai2020",
                       "gman",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:04:37.711Z",
+    "last_updated": "2026-09-01T12:33:40.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
