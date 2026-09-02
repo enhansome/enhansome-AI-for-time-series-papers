@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3006,
+                    "stars": 3007,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12806,
+                    "stars": 12812,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -786,7 +786,7 @@
                     "open_issues": 6,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 230,
+                    "stars": 231,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -887,7 +887,7 @@
                     "open_issues": 1,
                     "owner": "mzaffran",
                     "repo": "AdaptiveConformalPredictionsTimeSeries",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1040,
+                    "stars": 1041,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-23T08:15:29Z",
-                    "open_issues": 470,
+                    "open_issues": 472,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48179,
+                    "stars": 48203,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2482,
+                    "stars": 2481,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1188,
+                    "stars": 1189,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 944,
+                    "stars": 945,
                     "topics": [
                       "code",
                       "dataset"
@@ -4624,7 +4624,7 @@
                     "open_issues": 6,
                     "owner": "manigalati",
                     "repo": "usad",
-                    "stars": 272,
+                    "stars": 273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1237,
+                    "stars": 1238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:33:40.526Z",
+    "last_updated": "2026-09-02T12:06:17.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
