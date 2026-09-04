@@ -265,7 +265,7 @@
                     "open_issues": 2,
                     "owner": "qianlima-lab",
                     "repo": "time-series-ptms",
-                    "stars": 228,
+                    "stars": 230,
                     "topics": [
                       "anomaly-detection",
                       "classification",
@@ -348,7 +348,7 @@
                     "open_issues": 17,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2202,
+                    "stars": 2203,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -372,7 +372,7 @@
                     "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -511,7 +511,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2693,
+                    "stars": 2692,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12816,
+                    "stars": 12820,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 243,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 474,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48228,
+                    "stars": 48278,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2481,
+                    "stars": 2482,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -1975,7 +1975,7 @@
                     "open_issues": 0,
                     "owner": "abdulfatir",
                     "repo": "REDSDS",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2736,7 +2736,7 @@
                     "open_issues": 4,
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 344,
+                    "stars": 345,
                     "topics": [
                       "convolution",
                       "convolutional-kernel",
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14349,
+                    "stars": 14348,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3514,7 +3514,7 @@
                     "open_issues": 2,
                     "owner": "kingspp",
                     "repo": "timeseries-explain",
-                    "stars": 8,
+                    "stars": 7,
                     "topics": [
                       "explainable-ai",
                       "time-series-explanation",
@@ -3948,7 +3948,7 @@
                     "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1713,
+                    "stars": 1714,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:05:27.165Z",
+    "last_updated": "2026-09-04T12:07:11.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
