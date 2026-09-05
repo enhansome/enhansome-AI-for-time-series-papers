@@ -205,7 +205,7 @@
                     "open_issues": 0,
                     "owner": "qingsongedu",
                     "repo": "Awesome-SSL4TS",
-                    "stars": 383,
+                    "stars": 384,
                     "topics": [
                       "contrastive-learning",
                       "deep-learning",
@@ -235,7 +235,7 @@
                     "open_issues": 0,
                     "owner": "qingsongedu",
                     "repo": "Awesome-SSL4TS",
-                    "stars": 383,
+                    "stars": 384,
                     "topics": [
                       "contrastive-learning",
                       "deep-learning",
@@ -511,7 +511,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2692,
+                    "stars": 2693,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 259,
+                    "stars": 266,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1041,
+                    "stars": 1042,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-02T18:23:05Z",
-                    "open_issues": 474,
+                    "open_issues": 472,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48278,
+                    "stars": 48304,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14348,
+                    "stars": 14347,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3559,7 +3559,7 @@
                     "open_issues": 27,
                     "owner": "microsoft",
                     "repo": "StemGNN",
-                    "stars": 615,
+                    "stars": 616,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 947,
+                    "stars": 948,
                     "topics": [
                       "code",
                       "dataset"
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1239,
+                    "stars": 1240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:07:11.113Z",
+    "last_updated": "2026-09-05T11:15:44.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
