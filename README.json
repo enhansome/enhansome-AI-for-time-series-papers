@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1221,
+                    "stars": 1222,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -348,7 +348,7 @@
                     "open_issues": 17,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2203,
+                    "stars": 2204,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -511,7 +511,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2693,
+                    "stars": 2695,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12820,
+                    "stars": 12824,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 266,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 472,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48304,
+                    "stars": 48342,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2736,7 +2736,7 @@
                     "open_issues": 4,
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": [
                       "convolution",
                       "convolutional-kernel",
@@ -3948,7 +3948,7 @@
                     "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1714,
+                    "stars": 1715,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1240,
+                    "stars": 1241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:15:44.556Z",
+    "last_updated": "2026-09-06T11:38:52.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
@@ -5271,7 +5271,7 @@
       "open_issues": 3,
       "owner": "qingsongedu",
       "repo": "awesome-AI-for-time-series-papers",
-      "stars": 1622,
+      "stars": 1621,
       "topics": [
         "anomalydetection",
         "awesome",
