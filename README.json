@@ -23,7 +23,7 @@
                     "open_issues": 6,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3011,
+                    "stars": 3012,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1227,
+                    "stars": 1229,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -539,7 +539,7 @@
                     "open_issues": 47,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12886,
+                    "stars": 12891,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -807,7 +807,7 @@
                     "open_issues": 16,
                     "owner": "DAMO-DI-ML",
                     "repo": "ICML2022-FEDformer",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 480,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48684,
+                    "stars": 48720,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1278,7 +1278,7 @@
                     "open_issues": 3,
                     "owner": "jeongwhanchoi",
                     "repo": "STG-NCDE",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": [
                       "differential-equations",
                       "graph-neural-networks",
@@ -2259,7 +2259,7 @@
                     "open_issues": 97,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6482,
+                    "stars": 6483,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2715,7 +2715,7 @@
                     "open_issues": 35,
                     "owner": "gzerveas",
                     "repo": "mvts_transformer",
-                    "stars": 874,
+                    "stars": 875,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6520,
+                    "stars": 6522,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3106,7 +3106,7 @@
                     "open_issues": 2,
                     "owner": "exathlonbenchmark",
                     "repo": "exathlon",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14358,
+                    "stars": 14359,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3796,7 +3796,7 @@
                     "open_issues": 3,
                     "owner": "Luoyonghong",
                     "repo": "Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks",
-                    "stars": 193,
+                    "stars": 192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3845,7 +3845,7 @@
                     "open_issues": 97,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6482,
+                    "stars": 6483,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1444,
+                    "stars": 1443,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:20:43.031Z",
+    "last_updated": "2026-09-21T14:06:32.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
