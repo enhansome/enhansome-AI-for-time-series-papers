@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1229,
+                    "stars": 1230,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -166,7 +166,7 @@
                     "open_issues": 2,
                     "owner": "WenjieDu",
                     "repo": "Awesome_Imputation",
-                    "stars": 427,
+                    "stars": 428,
                     "topics": [
                       "benchmark",
                       "data-mining",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2215,
+                    "stars": 2216,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2709,
+                    "stars": 2710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 47,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12891,
+                    "stars": 12900,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -599,7 +599,7 @@
                     "open_issues": 9,
                     "owner": "ChunjingXiao",
                     "repo": "DiffAD",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "anomaly-detection",
                       "data-imputation",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1043,
+                    "stars": 1042,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1234,11 +1234,11 @@
                     "id": 287463830,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T16:40:12Z",
+                    "last_commit": "2026-09-22T05:57:23Z",
                     "open_issues": 480,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48720,
+                    "stars": 48748,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1511,7 +1511,7 @@
                     "open_issues": 2,
                     "owner": "imperial-qore",
                     "repo": "TranAD",
-                    "stars": 703,
+                    "stars": 701,
                     "topics": [
                       "adversarial-learning",
                       "anomaly-detection",
@@ -1538,7 +1538,7 @@
                     "open_issues": 5,
                     "owner": "thedatumorg",
                     "repo": "TSB-UAD",
-                    "stars": 222,
+                    "stars": 220,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -1887,7 +1887,7 @@
                     "open_issues": 8,
                     "owner": "ermongroup",
                     "repo": "CSDI",
-                    "stars": 460,
+                    "stars": 461,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2259,7 +2259,7 @@
                     "open_issues": 97,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6483,
+                    "stars": 6482,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2645,7 +2645,7 @@
                     "open_issues": 6,
                     "owner": "zhhlee",
                     "repo": "InterFusion",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2687,7 +2687,7 @@
                     "open_issues": 2,
                     "owner": "wzwtrevor",
                     "repo": "Multi-Scale-One-Class-Recurrent-Neural-Networks",
-                    "stars": 18,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2715,7 +2715,7 @@
                     "open_issues": 35,
                     "owner": "gzerveas",
                     "repo": "mvts_transformer",
-                    "stars": 875,
+                    "stars": 876,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6522,
+                    "stars": 6523,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3845,7 +3845,7 @@
                     "open_issues": 97,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6483,
+                    "stars": 6482,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3948,7 +3948,7 @@
                     "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1720,
+                    "stars": 1721,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 950,
+                    "stars": 951,
                     "topics": [
                       "code",
                       "dataset"
@@ -5228,7 +5228,7 @@
                     "open_issues": 15,
                     "owner": "ML4ITS",
                     "repo": "mtad-gat-pytorch",
-                    "stars": 399,
+                    "stars": 398,
                     "topics": [
                       "2021",
                       "anomaly-detection",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:06:32.235Z",
+    "last_updated": "2026-09-22T12:35:57.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
