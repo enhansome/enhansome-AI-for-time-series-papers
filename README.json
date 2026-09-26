@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2697,
+                    "stars": 2698,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2219,
+                    "stars": 2220,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T05:57:23Z",
-                    "open_issues": 479,
+                    "open_issues": 481,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 48845,
+                    "stars": 48866,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -4373,7 +4373,7 @@
                     "open_issues": 10,
                     "owner": "ServiceNow",
                     "repo": "N-BEATS",
-                    "stars": 613,
+                    "stars": 614,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:45:15.883Z",
+    "last_updated": "2026-09-26T12:13:32.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
