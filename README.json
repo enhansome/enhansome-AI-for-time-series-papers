@@ -20,7 +20,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2024-08-08T15:03:54Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
                     "stars": 3013,
@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1231,
+                    "stars": 1233,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2699,
+                    "stars": 2701,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2223,
+                    "stars": 2224,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -743,7 +743,7 @@
                     "open_issues": 16,
                     "owner": "mims-harvard",
                     "repo": "TFC-pretraining",
-                    "stars": 529,
+                    "stars": 530,
                     "topics": [
                       "consistency-models",
                       "contrastive-learning",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 308,
+                    "stars": 307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -908,7 +908,7 @@
                     "open_issues": 0,
                     "owner": "boschresearch",
                     "repo": "Continuous-Recurrent-Units",
-                    "stars": 69,
+                    "stars": 68,
                     "topics": [
                       "bcai",
                       "paper-resource"
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T05:57:23Z",
-                    "open_issues": 481,
+                    "open_issues": 482,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49006,
+                    "stars": 49038,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6526,
+                    "stars": 6527,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3190,7 +3190,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14356,
+                    "stars": 14355,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 945,
+                    "stars": 946,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1242,
+                    "stars": 1243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5128,7 +5128,7 @@
                     "open_issues": 1,
                     "owner": "yscacaca",
                     "repo": "STFNets",
-                    "stars": 49,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:25:33.723Z",
+    "last_updated": "2026-09-29T14:03:32.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
