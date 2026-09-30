@@ -23,7 +23,7 @@
                     "open_issues": 5,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3013,
+                    "stars": 3014,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2224,
+                    "stars": 2225,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2716,
+                    "stars": 2718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12919,
+                    "stars": 12923,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 482,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49038,
+                    "stars": 49071,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6527,
+                    "stars": 6528,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3948,7 +3948,7 @@
                     "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1726,
+                    "stars": 1725,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:03:32.833Z",
+    "last_updated": "2026-09-30T13:40:59.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
