@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2720,
+                    "stars": 2719,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12929,
+                    "stars": 12931,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -578,7 +578,7 @@
                     "open_issues": 24,
                     "owner": "DAMO-DI-ML",
                     "repo": "KDD2023-DCdetector",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1190,7 +1190,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting [code]",
-                  "description": null,
+                  "description": "DAMO-DI-ML/KDD2022-Quatformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1238,7 +1238,7 @@
                     "open_issues": 484,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49119,
+                    "stars": 49102,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2259,7 +2259,7 @@
                     "open_issues": 100,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6484,
+                    "stars": 6485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3121,7 +3121,7 @@
                 {
                   "node_type": "item",
                   "title": "RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection, SIGMOD'21. [paper]",
-                  "description": "[code]",
+                  "description": "ariaghora/robust-period",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3567,7 +3567,7 @@
                 {
                   "node_type": "item",
                   "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [paper]",
-                  "description": "[code]",
+                  "description": "mlpotter/Transformer_Time_Series",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3845,7 +3845,7 @@
                     "open_issues": 100,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6484,
+                    "stars": 6485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3969,7 +3969,7 @@
                     "open_issues": 3,
                     "owner": "jsyoon0823",
                     "repo": "TimeGAN",
-                    "stars": 1060,
+                    "stars": 1061,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4416,7 +4416,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns, KDD'20. [paper]",
-                  "description": "[code]",
+                  "description": "ariaghora/fast-robust-stl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4646,7 +4646,7 @@
                 {
                   "node_type": "item",
                   "title": "RobustSTL: A Robust Seasonal-Trend Decomposition Procedure for Long Time Series, AAAI'19. [paper]",
-                  "description": "[code]",
+                  "description": "LeeDoYup/RobustSTL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5215,7 +5215,7 @@
                 {
                   "node_type": "item",
                   "title": "Multivariate Time-series Anomaly Detection via Graph Attention Network, ICDM'20. [paper]",
-                  "description": "[code]",
+                  "description": "ML4ITS/mtad-gat-pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:50:49.739Z",
+    "last_updated": "2026-10-03T04:23:36.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
