@@ -1238,7 +1238,7 @@
                     "open_issues": 484,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49102,
+                    "stars": 49107,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:23:36.451Z",
+    "last_updated": "2026-10-03T12:31:31.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
