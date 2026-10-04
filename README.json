@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2719,
+                    "stars": 2720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12931,
+                    "stars": 12933,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 484,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49107,
+                    "stars": 49128,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1887,7 +1887,7 @@
                     "open_issues": 8,
                     "owner": "ermongroup",
                     "repo": "CSDI",
-                    "stars": 461,
+                    "stars": 462,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14356,
+                    "stars": 14357,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3559,7 +3559,7 @@
                     "open_issues": 27,
                     "owner": "microsoft",
                     "repo": "StemGNN",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3607,7 +3607,7 @@
                     "open_issues": 8,
                     "owner": "LeiBAI",
                     "repo": "AGCRN",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3969,7 +3969,7 @@
                     "open_issues": 3,
                     "owner": "jsyoon0823",
                     "repo": "TimeGAN",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 946,
+                    "stars": 947,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:31:31.059Z",
+    "last_updated": "2026-10-04T13:10:51.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
