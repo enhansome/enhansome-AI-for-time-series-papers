@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2719,
+                    "stars": 2720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -990,7 +990,7 @@
                     "open_issues": 7,
                     "owner": "ts-kim",
                     "repo": "RevIN",
-                    "stars": 440,
+                    "stars": 441,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 488,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49173,
+                    "stars": 49178,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2736,7 +2736,7 @@
                     "open_issues": 4,
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 349,
+                    "stars": 350,
                     "topics": [
                       "convolution",
                       "convolutional-kernel",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:16:55.980Z",
+    "last_updated": "2026-10-06T14:10:34.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
