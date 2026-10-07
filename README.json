@@ -23,7 +23,7 @@
                     "open_issues": 4,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3014,
+                    "stars": 3015,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2720,
+                    "stars": 2722,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12934,
+                    "stars": 12937,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 488,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49178,
+                    "stars": 49200,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1887,7 +1887,7 @@
                     "open_issues": 8,
                     "owner": "ermongroup",
                     "repo": "CSDI",
-                    "stars": 462,
+                    "stars": 463,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2120,6 +2120,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series [paper]",
+                  "description": "[official code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 384184631,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2022-10-04T02:05:34Z",
+                    "open_issues": 6,
+                    "owner": "rshyamsundar",
+                    "repo": "gluonts-hierarchical-ICML-2021",
+                    "stars": 41,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T19:25:42.863Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting [paper]",
                   "description": "[official code]",
                   "children": [],
@@ -2135,27 +2156,6 @@
                     "owner": "Z-GCNETs",
                     "repo": "Z-GCNETs",
                     "stars": 41,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T19:25:42.863Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series [paper]",
-                  "description": "[official code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 384184631,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2022-10-04T02:05:34Z",
-                    "open_issues": 6,
-                    "owner": "rshyamsundar",
-                    "repo": "gluonts-hierarchical-ICML-2021",
-                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2256,7 +2256,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 100,
+                    "open_issues": 104,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
                     "stars": 6484,
@@ -3106,7 +3106,7 @@
                     "open_issues": 2,
                     "owner": "exathlonbenchmark",
                     "repo": "exathlon",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14358,
+                    "stars": 14360,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3775,7 +3775,7 @@
                     "open_issues": 13,
                     "owner": "caow13",
                     "repo": "BRITS",
-                    "stars": 248,
+                    "stars": 249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3842,7 +3842,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 100,
+                    "open_issues": 104,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
                     "stars": 6484,
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:10:34.817Z",
+    "last_updated": "2026-10-07T14:28:44.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
