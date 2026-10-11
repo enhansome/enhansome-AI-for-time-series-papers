@@ -166,7 +166,7 @@
                     "open_issues": 2,
                     "owner": "WenjieDu",
                     "repo": "Awesome_Imputation",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "benchmark",
                       "data-mining",
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12941,
+                    "stars": 12944,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 489,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49255,
+                    "stars": 49278,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1278,7 +1278,7 @@
                     "open_issues": 3,
                     "owner": "jeongwhanchoi",
                     "repo": "STG-NCDE",
-                    "stars": 177,
+                    "stars": 178,
                     "topics": [
                       "differential-equations",
                       "graph-neural-networks",
@@ -2259,7 +2259,7 @@
                     "open_issues": 105,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6485,
+                    "stars": 6486,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2645,7 +2645,7 @@
                     "open_issues": 6,
                     "owner": "zhhlee",
                     "repo": "InterFusion",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2666,7 +2666,7 @@
                     "open_issues": 5,
                     "owner": "eBay",
                     "repo": "RANSynCoders",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2736,7 +2736,7 @@
                     "open_issues": 4,
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 351,
+                    "stars": 352,
                     "topics": [
                       "convolution",
                       "convolutional-kernel",
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6530,
+                    "stars": 6531,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3845,7 +3845,7 @@
                     "open_issues": 105,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6485,
+                    "stars": 6486,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1445,
+                    "stars": 1446,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4457,7 +4457,7 @@
                     "open_issues": 20,
                     "owner": "nnzhan",
                     "repo": "MTGNN",
-                    "stars": 947,
+                    "stars": 948,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1196,
+                    "stars": 1197,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4624,7 +4624,7 @@
                     "open_issues": 6,
                     "owner": "manigalati",
                     "repo": "usad",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:39:10.953Z",
+    "last_updated": "2026-10-11T14:01:34.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",

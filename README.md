@@ -97,7 +97,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,234 | 🐛 3 | 📅 2024-12-22
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09
-* Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2026-08-03
+* Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation) ⭐ 429 | 🐛 2 | 🌐 Python | 📅 2026-08-03
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS) ⭐ 386 | 🐛 0 | 📅 2024-04-28
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS) ⭐ 386 | 🐛 0 | 📅 2024-04-28
 * A Survey on Time-Series Pre-Trained Models, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2305.10716) [\[link\]](https://github.com/qianlima-lab/time-series-ptms) ⭐ 230 | 🐛 2 | 🌐 Python | 📅 2024-10-07
@@ -351,7 +351,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Other Time Series Analysis
 
-* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,941 | 🐛 48 | 🌐 Python | 📅 2026-04-18
+* TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis  [\[paper\]](https://openreview.net/forum?id=ju_Uqw384Oq) [\[official code\]](https://github.com/thuml/Time-Series-Library) ⭐ 12,944 | 🐛 48 | 🌐 Python | 📅 2026-04-18
 * Effectively Modeling Time Series with Simple Discrete State Spaces [\[paper\]](https://openreview.net/forum?id=2EpjkjzdCAa) [\[official code\]]()
 * Contrastive Learning for Unsupervised Domain Adaptation of Time Series [\[paper\]](https://openreview.net/forum?id=xPkJYRsQGM) [\[official code\]]()
 * Recursive Time Series Data Augmentation [\[paper\]](https://openreview.net/forum?id=5lgD4vU-l24s) [\[official code\]]()
@@ -563,8 +563,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 49,255 | 🐛 489 | 🌐 Python | 📅 2026-10-08
-* Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE) ⭐ 177 | 🐛 3 | 🌐 Python | 📅 2024-09-14
+* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA) ⭐ 49,278 | 🐛 489 | 🌐 Python | 📅 2026-10-08
+* Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE) ⭐ 178 | 🐛 3 | 🌐 Python | 📅 2024-09-14
 * Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn) ⭐ 133 | 🐛 2 | 🌐 Python | 📅 2022-03-06
 * STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2022-09-04
 * Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration [\[paper\]](https://arxiv.org/abs/2110.05196) [\[official code\]](https://github.com/Sijie-umn/SSF-MIP) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-01-26
@@ -718,7 +718,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Other Time Series Analysis
 
-* Learning Neural Event Functions for Ordinary Differential Equations [\[paper\]](https://arxiv.org/abs/2011.03902) [\[official code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,485 | 🐛 105 | 🌐 Python | 📅 2025-04-04
+* Learning Neural Event Functions for Ordinary Differential Equations [\[paper\]](https://arxiv.org/abs/2011.03902) [\[official code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,486 | 🐛 105 | 🌐 Python | 📅 2025-04-04
 * Neural Rough Differential Equations for Long Time Series [\[paper\]](https://arxiv.org/abs/2009.08295) [\[official code\]](https://github.com/jambo6/neuralRDEs) ⭐ 125 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-05-11
 * Neural Spatio-Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2011.04583) [\[official code\]](https://github.com/facebookresearch/neural_stpp) ⚠️ Archived
 * Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming) ⭐ 72 | 🐛 4 | 🌐 TypeScript | 📅 2024-06-12
@@ -756,15 +756,15 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Anomaly Detection
 
-* Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding [\[paper\]](https://netman.aiops.org/wp-content/uploads/2021/08/KDD21_InterFusion_Li.pdf) [\[official code\]](https://github.com/zhhlee/InterFusion) ⭐ 241 | 🐛 6 | 🌐 Python | 📅 2021-09-02
-* Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174) [\[official code\]](https://github.com/eBay/RANSynCoders) ⭐ 104 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-06
+* Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding [\[paper\]](https://netman.aiops.org/wp-content/uploads/2021/08/KDD21_InterFusion_Li.pdf) [\[official code\]](https://github.com/zhhlee/InterFusion) ⭐ 242 | 🐛 6 | 🌐 Python | 📅 2021-09-02
+* Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174) [\[official code\]](https://github.com/eBay/RANSynCoders) ⭐ 105 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-06
 * Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection [\[paper\]](https://arxiv.org/abs/2008.13361) [\[official code\]](https://github.com/wzwtrevor/Multi-Scale-One-Class-Recurrent-Neural-Networks) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2021-06-02
 * Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering [\[paper\]](https://arxiv.org/abs/2106.07992) [\[official code\]](https://arxiv.org/abs/2106.07992)
 
 #### Other Time Series Analysis
 
 * Representation Learning of Multivariate Time Series using a Transformer Framework [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 875 | 🐛 35 | 🌐 Python | 📅 2026-04-29
-* MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification [\[paper\]](https://arxiv.org/abs/2012.08791) [\[official code\]](https://github.com/angus924/minirocket) ⭐ 351 | 🐛 4 | 🌐 Python | 📅 2022-04-10
+* MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification [\[paper\]](https://arxiv.org/abs/2012.08791) [\[official code\]](https://github.com/angus924/minirocket) ⭐ 352 | 🐛 4 | 🌐 Python | 📅 2022-04-10
 * Fast and Accurate Partial Fourier Transform for Time Series Data [\[paper\]](https://jungijang.github.io/resources/2021/KDD/pft.pdf) [\[official code\]](https://github.com/snudatalab/PFT) ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2025-08-19
 * Causal and Interpretable Rules for Time Series Analysis [\[paper\]](https://josselin-garnier.org/wp-content/uploads/2021/10/kdd21.pdf)
 * Statistical models coupling allows for complex localmultivariate time series analysis [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467362)
@@ -774,7 +774,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2012.07436) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) ⭐ 6,530 | 🐛 191 | 🌐 Python | 📅 2025-06-20
+* Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2012.07436) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) ⭐ 6,531 | 🐛 191 | 🌐 Python | 📅 2025-06-20
 * Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting [\[paper\]](https://arxiv.org/abs/2012.09641) [\[official code\]](https://github.com/MengzhangLI/STFGNN) ⭐ 233 | 🐛 13 | 🌐 Python | 📅 2021-01-26
 * FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting [\[paper\]](https://arxiv.org/abs/2007.15531) [\[official code\]](https://github.com/boreshkinai/fc-gaga) ⭐ 68 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-01-12
 * Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network [\[paper\]](https://arxiv.org/abs/2110.04038) [\[official code\]](https://github.com/jillbetty001/ST-GDN) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2022-03-30
@@ -931,7 +931,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Neural xDE
 
-* Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[official code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,485 | 🐛 105 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations, NeurIPS'18. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[official code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,486 | 🐛 105 | 🌐 Python | 📅 2025-04-04
 * Neural Controlled Differential Equations for Irregular Time Series, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[official code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 721 | 🐛 4 | 🌐 Python | 📅 2022-10-22
 * Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1907.03907) [\[official code\]](https://github.com/YuliaRubanova/latent_ode) ⭐ 599 | 🐛 9 | 🌐 Python | 📅 2020-12-03
 * GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1905.12374) [\[official code\]](https://github.com/edebrouwer/gru_ode_bayes) ⭐ 242 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2022-05-26
@@ -980,7 +980,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=SJiHXGWAZ) [\[official code\]](https://github.com/liyaguang/DCRNN) ⭐ 1,445 | 🐛 28 | 🌐 Python | 📅 2024-12-09
+* Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=SJiHXGWAZ) [\[official code\]](https://github.com/liyaguang/DCRNN) ⭐ 1,446 | 🐛 28 | 🌐 Python | 📅 2024-12-09
 * N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, ICLR'20. [\[paper\]](https://openreview.net/forum?id=r1ecqn4YwB) [\[official code\]](https://github.com/ElementAI/N-BEATS) ⭐ 613 | 🐛 10 | 🌐 Python | 📅 2022-08-08
 * Automatically Inferring Data Quality for Spatiotemporal Forecasting, ICLR'18. [\[paper\]](https://openreview.net/forum?id=ByJIWUnpW)
 
@@ -996,7 +996,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.11650) [\[official code\]](https://github.com/nnzhan/MTGNN) ⭐ 947 | 🐛 20 | 🌐 Python | 📅 2023-07-06
+* Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks, KDD'20. [\[paper\]](https://arxiv.org/abs/2005.11650) [\[official code\]](https://github.com/nnzhan/MTGNN) ⭐ 948 | 🐛 20 | 🌐 Python | 📅 2023-07-06
 * Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, KDD'17. [\[paper\]](https://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [\[official code\]](https://github.com/z331565360/State-Frequency-Memory-stock-prediction) ⭐ 134 | 🐛 11 | 🌐 Python | 📅 2019-04-01
 * Dynamic Modeling and Forecasting of Time-evolving Data Streams, KDD'19. [\[paper\]](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/PUBLICATIONS/kdd19-orbitmap.pdf) [\[official code\]](https://github.com/yasuko-matsubara/orbitmap) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2020-05-19
 * DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events, KDD'19. [\[paper\]](https://www.researchgate.net/profile/Renhe-Jiang/publication/334714928_DeepUrbanEvent_A_System_for_Predicting_Citywide_Crowd_Dynamics_at_Big_Events/links/5d417167299bf1995b597f28/DeepUrbanEvent-A-System-for-Predicting-Citywide-Crowd-Dynamics-at-Big-Events.pdf) [\[official code\]](https://github.com/deepkashiwa20/DeepUrbanEvent) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2021-08-24
@@ -1009,9 +1009,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Anomaly Detection
 
-* Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [\[paper\]](https://arxiv.org/abs/1802.04431) [\[official code\]](https://github.com/khundman/telemanom) ⭐ 1,196 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2025-01-17
+* Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding, KDD'18. [\[paper\]](https://arxiv.org/abs/1802.04431) [\[official code\]](https://github.com/khundman/telemanom) ⭐ 1,197 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2025-01-17
 * Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD'19. [\[paper\]](https://netman.aiops.org/wp-content/uploads/2019/08/OmniAnomaly_camera-ready.pdf) [\[official code\]](https://github.com/NetManAIOps/OmniAnomaly) ⭐ 954 | 🐛 31 | 🌐 Python | 📅 2024-03-03
-* USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) [\[official code\]](https://github.com/manigalati/usad) ⭐ 273 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-03-18
+* USAD: UnSupervised Anomaly Detection on Multivariate Time Series, KDD'20. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) [\[official code\]](https://github.com/manigalati/usad) ⭐ 274 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-03-18
 * RobustTAD: Robust Time Series Anomaly Detection via Decomposition and Convolutional Neural Networks, KDD'20 MiLeTS. [\[paper\]](https://arxiv.org/abs/2002.09545)
 * Time-Series Anomaly Detection Service at Microsoft, KDD'19. [\[paper\]](https://arxiv.org/abs/1906.03821)
 * Anomaly Detection in Streams with Extreme Value Theory, KDD'17. [\[paper\]](https://hal.archives-ouvertes.fr/hal-01640325/document)
@@ -1151,4 +1151,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
