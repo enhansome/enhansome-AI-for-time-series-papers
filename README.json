@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2704,
+                    "stars": 2705,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -372,7 +372,7 @@
                     "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2723,
+                    "stars": 2724,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12960,
+                    "stars": 12966,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -681,7 +681,7 @@
                     "open_issues": 24,
                     "owner": "cure-lab",
                     "repo": "SCINet",
-                    "stars": 669,
+                    "stars": 668,
                     "topics": [
                       "deep-neural-networks",
                       "forecasting",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -807,7 +807,7 @@
                     "open_issues": 16,
                     "owner": "DAMO-DI-ML",
                     "repo": "ICML2022-FEDformer",
-                    "stars": 221,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1234,11 +1234,11 @@
                     "id": 287463830,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T10:58:43Z",
-                    "open_issues": 491,
+                    "last_commit": "2026-10-14T20:32:10Z",
+                    "open_issues": 493,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49358,
+                    "stars": 49375,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2487,
+                    "stars": 2486,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -2256,7 +2256,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 105,
+                    "open_issues": 106,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
                     "stars": 6490,
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6530,
+                    "stars": 6531,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3842,7 +3842,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 105,
+                    "open_issues": 106,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
                     "stars": 6490,
@@ -3948,7 +3948,7 @@
                     "open_issues": 18,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1730,
+                    "stars": 1731,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3969,7 +3969,7 @@
                     "open_issues": 3,
                     "owner": "jsyoon0823",
                     "repo": "TimeGAN",
-                    "stars": 1063,
+                    "stars": 1064,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4084,7 +4084,7 @@
                     "open_issues": 16,
                     "owner": "mblondel",
                     "repo": "soft-dtw",
-                    "stars": 598,
+                    "stars": 599,
                     "topics": [
                       "dtw",
                       "dynamic-time-warping",
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1447,
+                    "stars": 1448,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:51:45.879Z",
+    "last_updated": "2026-10-15T12:38:25.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
