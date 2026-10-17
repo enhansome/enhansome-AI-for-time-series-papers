@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 12966,
+                    "stars": 12968,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 493,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49400,
+                    "stars": 49430,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1538,7 +1538,7 @@
                     "open_issues": 5,
                     "owner": "thedatumorg",
                     "repo": "TSB-UAD",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": [
                       "anomaly-detection",
                       "anomaly-detection-algorithm",
@@ -1772,7 +1772,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2486,
+                    "stars": 2487,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -2798,7 +2798,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6532,
+                    "stars": 6534,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3945,7 +3945,7 @@
                     "language": "Jupyter Notebook",
                     "license": "GPL-3.0",
                     "last_commit": "2026-01-14T22:41:36Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
                     "stars": 1731,
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:23:34.698Z",
+    "last_updated": "2026-10-17T11:35:29.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
