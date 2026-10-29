@@ -166,7 +166,7 @@
                     "open_issues": 2,
                     "owner": "WenjieDu",
                     "repo": "Awesome_Imputation",
-                    "stars": 430,
+                    "stars": 429,
                     "topics": [
                       "benchmark",
                       "data-mining",
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13013,
+                    "stars": 13017,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -990,7 +990,7 @@
                     "open_issues": 7,
                     "owner": "ts-kim",
                     "repo": "RevIN",
-                    "stars": 446,
+                    "stars": 447,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 510,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49774,
+                    "stars": 49808,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2736,7 +2736,7 @@
                     "open_issues": 4,
                     "owner": "angus924",
                     "repo": "minirocket",
-                    "stars": 354,
+                    "stars": 355,
                     "topics": [
                       "convolution",
                       "convolutional-kernel",
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14373,
+                    "stars": 14374,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1201,
+                    "stars": 1202,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4680,7 +4680,7 @@
                     "open_issues": 5,
                     "owner": "petecheng",
                     "repo": "Time2Graph",
-                    "stars": 134,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4750,7 +4750,7 @@
                     "open_issues": 3,
                     "owner": "guoshnBJTU",
                     "repo": "ASTGCN-2019-pytorch",
-                    "stars": 748,
+                    "stars": 750,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:59:41.485Z",
+    "last_updated": "2026-10-29T14:15:09.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
