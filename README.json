@@ -23,7 +23,7 @@
                     "open_issues": 4,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3023,
+                    "stars": 3024,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1237,
+                    "stars": 1238,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -205,7 +205,7 @@
                     "open_issues": 0,
                     "owner": "qingsongedu",
                     "repo": "Awesome-SSL4TS",
-                    "stars": 387,
+                    "stars": 388,
                     "topics": [
                       "contrastive-learning",
                       "deep-learning",
@@ -235,7 +235,7 @@
                     "open_issues": 0,
                     "owner": "qingsongedu",
                     "repo": "Awesome-SSL4TS",
-                    "stars": 387,
+                    "stars": 388,
                     "topics": [
                       "contrastive-learning",
                       "deep-learning",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2238,
+                    "stars": 2239,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13017,
+                    "stars": 13031,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -681,7 +681,7 @@
                     "open_issues": 24,
                     "owner": "cure-lab",
                     "repo": "SCINet",
-                    "stars": 669,
+                    "stars": 668,
                     "topics": [
                       "deep-neural-networks",
                       "forecasting",
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1047,
+                    "stars": 1048,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1234,11 +1234,11 @@
                     "id": 287463830,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T06:22:15Z",
-                    "open_issues": 510,
+                    "last_commit": "2026-10-30T05:12:38Z",
+                    "open_issues": 511,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49808,
+                    "stars": 49832,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2798,7 +2798,7 @@
                     "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6541,
+                    "stars": 6540,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -2826,7 +2826,7 @@
                     "open_issues": 13,
                     "owner": "MengzhangLI",
                     "repo": "STFGNN",
-                    "stars": 233,
+                    "stars": 234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3580,7 +3580,7 @@
                     "open_issues": 3,
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "attention",
                       "lstm",
@@ -3775,7 +3775,7 @@
                     "open_issues": 13,
                     "owner": "caow13",
                     "repo": "BRITS",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3899,7 +3899,7 @@
                     "open_issues": 9,
                     "owner": "YuliaRubanova",
                     "repo": "latent_ode",
-                    "stars": 599,
+                    "stars": 600,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3969,7 +3969,7 @@
                     "open_issues": 3,
                     "owner": "jsyoon0823",
                     "repo": "TimeGAN",
-                    "stars": 1064,
+                    "stars": 1065,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1452,
+                    "stars": 1453,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1245,
+                    "stars": 1246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5104,7 +5104,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-03-24T23:50:51Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "ratschlab",
                     "repo": "GP-VAE",
                     "stars": 143,
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:15:09.074Z",
+    "last_updated": "2026-10-30T14:05:45.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
