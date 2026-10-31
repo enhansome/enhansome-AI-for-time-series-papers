@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2711,
+                    "stars": 2712,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13031,
+                    "stars": 13035,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-30T05:12:38Z",
-                    "open_issues": 511,
+                    "open_issues": 512,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49832,
+                    "stars": 49860,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1511,7 +1511,7 @@
                     "open_issues": 2,
                     "owner": "imperial-qore",
                     "repo": "TranAD",
-                    "stars": 709,
+                    "stars": 708,
                     "topics": [
                       "adversarial-learning",
                       "anomaly-detection",
@@ -1772,7 +1772,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2492,
+                    "stars": 2493,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -2057,7 +2057,7 @@
                     "open_issues": 104,
                     "owner": "zalandoresearch",
                     "repo": "pytorch-ts",
-                    "stars": 1371,
+                    "stars": 1372,
                     "topics": [
                       "deepar",
                       "lstnet",
@@ -2395,7 +2395,7 @@
                     "open_issues": 104,
                     "owner": "zalandoresearch",
                     "repo": "pytorch-ts",
-                    "stars": 1371,
+                    "stars": 1372,
                     "topics": [
                       "deepar",
                       "lstnet",
@@ -2798,7 +2798,7 @@
                     "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6540,
+                    "stars": 6541,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14374,
+                    "stars": 14377,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:05:45.143Z",
+    "last_updated": "2026-10-31T13:38:05.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
