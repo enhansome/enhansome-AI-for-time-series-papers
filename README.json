@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2239,
+                    "stars": 2240,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13035,
+                    "stars": 13038,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1011,7 +1011,7 @@
                     "open_issues": 29,
                     "owner": "ant-research",
                     "repo": "Pyraformer",
-                    "stars": 305,
+                    "stars": 306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 512,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 49860,
+                    "stars": 49897,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2715,7 +2715,7 @@
                     "open_issues": 35,
                     "owner": "gzerveas",
                     "repo": "mvts_transformer",
-                    "stars": 877,
+                    "stars": 876,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14377,
+                    "stars": 14379,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3866,7 +3866,7 @@
                     "open_issues": 4,
                     "owner": "patrick-kidger",
                     "repo": "NeuralCDE",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": [
                       "controlled-differential-equations",
                       "deep-learning",
@@ -3948,7 +3948,7 @@
                     "open_issues": 20,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1733,
+                    "stars": 1734,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1453,
+                    "stars": 1454,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 955,
+                    "stars": 954,
                     "topics": [
                       "code",
                       "dataset"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:38:05.843Z",
+    "last_updated": "2026-11-01T14:15:31.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
