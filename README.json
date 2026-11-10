@@ -539,7 +539,7 @@
                     "open_issues": 48,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13058,
+                    "stars": 13061,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1139,7 +1139,7 @@
                     "open_issues": 34,
                     "owner": "thuml",
                     "repo": "Anomaly-Transformer",
-                    "stars": 1050,
+                    "stars": 1051,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -1238,7 +1238,7 @@
                     "open_issues": 513,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50164,
+                    "stars": 50194,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2495,
+                    "stars": 2494,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -1887,7 +1887,7 @@
                     "open_issues": 8,
                     "owner": "ermongroup",
                     "repo": "CSDI",
-                    "stars": 467,
+                    "stars": 468,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14384,
+                    "stars": 14385,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4022,7 +4022,7 @@
                     "open_issues": 9,
                     "owner": "perslev",
                     "repo": "U-Time",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": [
                       "deep-learning",
                       "fully-convolutional-networks",
@@ -4084,7 +4084,7 @@
                     "open_issues": 16,
                     "owner": "mblondel",
                     "repo": "soft-dtw",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "dtw",
                       "dynamic-time-warping",
@@ -5228,7 +5228,7 @@
                     "open_issues": 15,
                     "owner": "ML4ITS",
                     "repo": "mtad-gat-pytorch",
-                    "stars": 398,
+                    "stars": 399,
                     "topics": [
                       "2021",
                       "anomaly-detection",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:27:39.783Z",
+    "last_updated": "2026-11-10T15:33:58.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
