@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2243,
+                    "stars": 2247,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -511,7 +511,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2746,
+                    "stars": 2748,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -539,7 +539,7 @@
                     "open_issues": 49,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13076,
+                    "stars": 13079,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-04T22:48:24Z",
-                    "open_issues": 512,
+                    "open_issues": 511,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50240,
+                    "stars": 50262,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2259,7 +2259,7 @@
                     "open_issues": 110,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6494,
+                    "stars": 6495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -2868,7 +2868,7 @@
                     "open_issues": 0,
                     "owner": "jbdj-star",
                     "repo": "st",
-                    "stars": 42,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14387,
+                    "stars": 14388,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3775,7 +3775,7 @@
                     "open_issues": 13,
                     "owner": "caow13",
                     "repo": "BRITS",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3845,7 +3845,7 @@
                     "open_issues": 110,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6494,
+                    "stars": 6495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1458,
+                    "stars": 1459,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4750,7 +4750,7 @@
                     "open_issues": 3,
                     "owner": "guoshnBJTU",
                     "repo": "ASTGCN-2019-pytorch",
-                    "stars": 750,
+                    "stars": 751,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:57:31.347Z",
+    "last_updated": "2026-11-13T15:21:52.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
