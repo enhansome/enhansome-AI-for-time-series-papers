@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2716,
+                    "stars": 2717,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -539,7 +539,7 @@
                     "open_issues": 49,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13081,
+                    "stars": 13087,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -786,7 +786,7 @@
                     "open_issues": 7,
                     "owner": "SYLan2019",
                     "repo": "DSTAGNN",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -990,7 +990,7 @@
                     "open_issues": 7,
                     "owner": "ts-kim",
                     "repo": "RevIN",
-                    "stars": 448,
+                    "stars": 449,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-04T22:48:24Z",
-                    "open_issues": 515,
+                    "open_issues": 516,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50299,
+                    "stars": 50328,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -2256,10 +2256,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 111,
+                    "open_issues": 113,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6496,
+                    "stars": 6497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14387,
+                    "stars": 14388,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3842,10 +3842,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-04T01:06:00Z",
-                    "open_issues": 111,
+                    "open_issues": 113,
                     "owner": "rtqichen",
                     "repo": "torchdiffeq",
-                    "stars": 6496,
+                    "stars": 6497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3945,7 +3945,7 @@
                     "language": "Jupyter Notebook",
                     "license": "GPL-3.0",
                     "last_commit": "2026-01-14T22:41:36Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
                     "stars": 1737,
@@ -4600,7 +4600,7 @@
                     "open_issues": 31,
                     "owner": "NetManAIOps",
                     "repo": "OmniAnomaly",
-                    "stars": 957,
+                    "stars": 958,
                     "topics": [
                       "code",
                       "dataset"
@@ -4792,8 +4792,8 @@
                     "id": 231298457,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T10:08:49Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-11-15T22:07:19Z",
+                    "open_issues": 18,
                     "owner": "Davidham3",
                     "repo": "STSGCN",
                     "stars": 465,
@@ -4878,7 +4878,7 @@
                     "open_issues": 17,
                     "owner": "VeritasYin",
                     "repo": "STGCN_IJCAI-18",
-                    "stars": 1247,
+                    "stars": 1248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:44:15.014Z",
+    "last_updated": "2026-11-16T16:58:49.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
