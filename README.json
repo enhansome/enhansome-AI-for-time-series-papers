@@ -59,7 +59,7 @@
                     "open_issues": 3,
                     "owner": "qingsongedu",
                     "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                    "stars": 1240,
+                    "stars": 1241,
                     "topics": [
                       "anomalydetection",
                       "autoscaling",
@@ -536,10 +536,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-04-18T21:01:40Z",
-                    "open_issues": 49,
+                    "open_issues": 50,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13101,
+                    "stars": 13105,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 517,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50471,
+                    "stars": 50497,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1987,7 +1987,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "NeurIPS '21",
                     "homepage": null,
                     "id": 422041561,
                     "language": "Python",
@@ -3899,7 +3899,7 @@
                     "open_issues": 9,
                     "owner": "YuliaRubanova",
                     "repo": "latent_ode",
-                    "stars": 602,
+                    "stars": 603,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3948,7 +3948,7 @@
                     "open_issues": 20,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1741,
+                    "stars": 1744,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:20:00.870Z",
+    "last_updated": "2026-11-22T15:15:44.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
