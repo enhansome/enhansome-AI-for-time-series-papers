@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2717,
+                    "stars": 2718,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -539,7 +539,7 @@
                     "open_issues": 50,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13109,
+                    "stars": 13113,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 517,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50517,
+                    "stars": 50548,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1772,7 +1772,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2495,
+                    "stars": 2496,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -2451,7 +2451,7 @@
                     "open_issues": 6,
                     "owner": "reml-lab",
                     "repo": "mTAN",
-                    "stars": 149,
+                    "stars": 150,
                     "topics": [
                       "irregular-sampling",
                       "missing-data",
@@ -2959,7 +2959,7 @@
                     "open_issues": 48,
                     "owner": "d-ailin",
                     "repo": "GDN",
-                    "stars": 614,
+                    "stars": 615,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14387,
+                    "stars": 14386,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3866,7 +3866,7 @@
                     "open_issues": 4,
                     "owner": "patrick-kidger",
                     "repo": "NeuralCDE",
-                    "stars": 723,
+                    "stars": 722,
                     "topics": [
                       "controlled-differential-equations",
                       "deep-learning",
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1204,
+                    "stars": 1205,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -4792,8 +4792,8 @@
                     "id": 231298457,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-22T22:07:27Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-24T14:30:46Z",
+                    "open_issues": 18,
                     "owner": "Davidham3",
                     "repo": "STSGCN",
                     "stars": 464,
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:13:11.192Z",
+    "last_updated": "2026-11-24T18:52:02.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
