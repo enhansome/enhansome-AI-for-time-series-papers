@@ -23,7 +23,7 @@
                     "open_issues": 4,
                     "owner": "qingsongedu",
                     "repo": "time-series-transformers-review",
-                    "stars": 3030,
+                    "stars": 3031,
                     "topics": [
                       "anomalydetection",
                       "awesome",
@@ -313,7 +313,7 @@
                     "open_issues": 40,
                     "owner": "KimMeen",
                     "repo": "Time-LLM",
-                    "stars": 2718,
+                    "stars": 2719,
                     "topics": [
                       "cross-modal-learning",
                       "cross-modality",
@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2251,
+                    "stars": 2252,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -539,7 +539,7 @@
                     "open_issues": 50,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13113,
+                    "stars": 13116,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -990,7 +990,7 @@
                     "open_issues": 7,
                     "owner": "ts-kim",
                     "repo": "RevIN",
-                    "stars": 450,
+                    "stars": 451,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -1235,10 +1235,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-04T22:48:24Z",
-                    "open_issues": 517,
+                    "open_issues": 518,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50548,
+                    "stars": 50576,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -1851,7 +1851,7 @@
                     "open_issues": 79,
                     "owner": "datamllab",
                     "repo": "tods",
-                    "stars": 1665,
+                    "stars": 1666,
                     "topics": [
                       "anomaly-detection",
                       "automl",
@@ -3948,7 +3948,7 @@
                     "open_issues": 20,
                     "owner": "jakobrunge",
                     "repo": "tigramite",
-                    "stars": 1744,
+                    "stars": 1743,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -4346,7 +4346,7 @@
                     "open_issues": 28,
                     "owner": "liyaguang",
                     "repo": "DCRNN",
-                    "stars": 1458,
+                    "stars": 1460,
                     "topics": [
                       "deep-learning-graphs",
                       "iclr2018",
@@ -4796,7 +4796,7 @@
                     "open_issues": 18,
                     "owner": "Davidham3",
                     "repo": "STSGCN",
-                    "stars": 464,
+                    "stars": 465,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:25:42.863Z"
@@ -5228,7 +5228,7 @@
                     "open_issues": 15,
                     "owner": "ML4ITS",
                     "repo": "mtad-gat-pytorch",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "2021",
                       "anomaly-detection",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:52:02.103Z",
+    "last_updated": "2026-11-25T17:57:01.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
