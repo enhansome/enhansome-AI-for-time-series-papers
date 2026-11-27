@@ -348,7 +348,7 @@
                     "open_issues": 18,
                     "owner": "thuml",
                     "repo": "iTransformer",
-                    "stars": 2252,
+                    "stars": 2254,
                     "topics": [
                       "time-series-forecasting",
                       "transformer"
@@ -539,7 +539,7 @@
                     "open_issues": 50,
                     "owner": "thuml",
                     "repo": "Time-Series-Library",
-                    "stars": 13122,
+                    "stars": 13125,
                     "topics": [
                       "deep-learning",
                       "time-series",
@@ -1238,7 +1238,7 @@
                     "open_issues": 518,
                     "owner": "microsoft",
                     "repo": "qlib",
-                    "stars": 50611,
+                    "stars": 50632,
                     "topics": [
                       "algorithmic-trading",
                       "auto-quant",
@@ -3190,7 +3190,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14388,
+                    "stars": 14387,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -4569,7 +4569,7 @@
                     "open_issues": 20,
                     "owner": "khundman",
                     "repo": "telemanom",
-                    "stars": 1205,
+                    "stars": 1206,
                     "topics": [
                       "anomaly-detection",
                       "deep-learning",
@@ -5259,7 +5259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:42:12.602Z",
+    "last_updated": "2026-11-27T17:26:36.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
